@@ -80,7 +80,7 @@ export default {
    */
   manifest: {
     name:
-      'Dawai - Medicine Locator and Pharmacy Management Software for Sudan 💊🇸🇩✨',
+      'Dawai - Medicine Locator and Pharmacy Management Solution for Sudan 💊🇸🇩✨',
     short_name: 'Dawai',
     lang: 'en',
     display: 'standalone',
