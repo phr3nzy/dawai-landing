@@ -40,6 +40,7 @@ export default {
    */
   modules: [
     // Doc: https://bootstrap-vue.js.org
+    'nuxt-helmet',
     'bootstrap-vue/nuxt',
     [
       'nuxt-social-meta',
