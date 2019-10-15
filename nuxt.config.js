@@ -46,10 +46,9 @@ export default {
       'nuxt-social-meta',
       {
         url: 'https://dawai.netlify.com',
-        title:
-          'Dawai - Medicine Locator and Pharmacy Management Software for Sudan 💊🇸🇩✨',
+        title: 'Dawai - A Medicine Locator and Pharmacy Management Solution',
         description:
-          'Keep tabs on medicine on inventory, track your performance, manage expenses and finances, create invoices and more!',
+          "Dawai is a Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautifully, hand- crafted Charts and meaningful Analytics to increase your performance!",
         locale: 'en-US',
         twitter: '@_phr3nzy',
         img: '/logo-text-whitebg.png',
