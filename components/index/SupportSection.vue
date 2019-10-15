@@ -12,7 +12,7 @@
       </b-row>
       <b-row class="align-items-center justify-content-center">
         <b-col sm="6">
-          <b-form v-if="show" @submit="onSubmit" @reset="onReset">
+          <b-form data-netlify>
             <b-form-group id="input-group-2" label-for="input-2">
               <b-form-input
                 id="input-2"
@@ -62,27 +62,7 @@ export default {
         email: '',
         name: '',
         text: ''
-      },
-      show: true
-    }
-  },
-  methods: {
-    onSubmit(evt) {
-      evt.preventDefault()
-      alert(JSON.stringify(this.form))
-    },
-    onReset(evt) {
-      evt.preventDefault()
-      // Reset our form values
-      this.form.email = ''
-      this.form.name = ''
-      this.form.food = null
-      this.form.checked = []
-      // Trick to reset/clear native browser form validation state
-      this.show = false
-      this.$nextTick(() => {
-        this.show = true
-      })
+      }
     }
   }
 }
