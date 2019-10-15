@@ -1,0 +1,161 @@
+* {
+  font-family: 'Montserrat', sans-serif !important;
+  font-size: 16px;
+  word-spacing: 1px;
+  -ms-text-size-adjust: 100%;
+  -webkit-text-size-adjust: 100%;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: border-box;
+  margin: 0;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+	transition: opacity 0.5s;
+}
+
+.fade-enter,
+.fade-leave-to {
+	opacity: 0;
+}
+
+.primary {
+  background-color: #2571BF !important;
+  border: #2571BF;
+}
+
+.secondary {
+  background-color: #3A005F !important;
+  border: #3A005F;
+}
+
+.white {
+  background-color: white !important;
+  border: white;
+}
+
+.white--text {
+  color: white !important;
+}
+
+.primary--text {
+  color: #3A005F !important;
+}
+
+.github-black {
+  background-color: #211F1F;
+  border: #211F1F;
+}
+
+.github-black:hover {
+  background-color: hsl(0, 3%, 25%);
+  border: hsl(0, 3%, 25%);
+}
+
+.main-gradient {
+  background: linear-gradient(to left top, #3A005F,  rgb(39, 24, 126),  rgb(20, 81, 143),  #2571BF)!important;
+}
+
+.pricing .card {
+  border: none;
+  transition: all 0.2s;
+  box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.1);
+}
+
+.pricing hr {
+  margin: 1.5rem 0;
+}
+
+.pricing .card-title {
+  margin: 0.5rem 0;
+  font-size: 0.9rem;
+  letter-spacing: .1rem;
+  font-weight: bold;
+}
+
+.pricing .card-price {
+  font-size: 3rem;
+  margin: 0;
+}
+
+.pricing .card-price .period {
+  font-size: 0.8rem;
+}
+
+.pricing ul li {
+  margin-bottom: 1rem;
+}
+
+.pricing .text-muted {
+  opacity: 0.7;
+}
+
+.pricing .btn {
+  font-size: 80%;
+  letter-spacing: .1rem;
+  font-weight: bold;
+  padding: 1rem;
+  opacity: 0.7;
+  transition: all 0.2s;
+}
+
+/* Hover Effects on Card */
+
+@media (min-width: 992px) {
+  .pricing .card:hover {
+    margin-top: -.25rem;
+    margin-bottom: .25rem;
+    box-shadow: 0 0.5rem 1rem 0 rgba(0, 0, 0, 0.3);
+  }
+  .pricing .card:hover .btn {
+    opacity: 1;
+  }
+}
+
+*::-webkit-scrollbar {
+  width: 8px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+  box-shadow: none;
+}
+
+*::-webkit-scrollbar-track:hover {
+  background: transparent;
+  box-shadow: inset 1px 1px 20px rgb(220, 220, 220);
+}
+
+*::-webkit-scrollbar-thumb {
+  background: #2196F3;
+  background: -moz-linear-gradient(to top, rgba(58, 0, 95, 0.7),  rgba(39, 24, 126, 0.7),  rgba(20, 81, 143, 0.7),  rgba(37, 113, 191, 0.7));
+  background: -webkit-linear-gradient(to top, rgba(58, 0, 95, 0.7),  rgba(39, 24, 126, 0.7),  rgba(20, 81, 143, 0.7),  rgba(37, 113, 191, 0.7));
+  background: -o-linear-gradient(to top, rgba(58, 0, 95, 0.7),  rgba(39, 24, 126, 0.7),  rgba(20, 81, 143, 0.7),  rgba(37, 113, 191, 0.7));
+  background: -ms-linear-gradient(to top, rgba(58, 0, 95, 0.7),  rgba(39, 24, 126, 0.7),  rgba(20, 81, 143, 0.7),  rgba(37, 113, 191, 0.7));
+  background: linear-gradient(to top, rgba(58, 0, 95, 0.7),  rgba(39, 24, 126, 0.7),  rgba(20, 81, 143, 0.7),  rgba(37, 113, 191, 0.7));
+}
+
+*::-webkit-scrollbar-thumb:hover {
+  background: #2196F3;
+  background: -moz-linear-gradient(to top, rgba(58, 0, 95, 0.8),  rgba(39, 24, 126, 0.8),  rgba(20, 81, 143, 0.8),  rgba(37, 113, 191, 0.8));
+  background: -webkit-linear-gradient(to top, rgba(58, 0, 95, 0.8),  rgba(39, 24, 126, 0.8),  rgba(20, 81, 143, 0.8),  rgba(37, 113, 191, 0.8));
+  background: -o-linear-gradient(to top, rgba(58, 0, 95, 0.8),  rgba(39, 24, 126, 0.8),  rgba(20, 81, 143, 0.8),  rgba(37, 113, 191, 0.8));
+  background: -ms-linear-gradient(to top, rgba(58, 0, 95, 0.8),  rgba(39, 24, 126, 0.8),  rgba(20, 81, 143, 0.8),  rgba(37, 113, 191, 0.8));
+  background: linear-gradient(to top, rgba(58, 0, 95, 0.8),  rgba(39, 24, 126, 0.8),  rgba(20, 81, 143, 0.8),  rgba(37, 113, 191, 0.8));
+}
+
+*::-webkit-scrollbar-thumb:active {
+  background: #2196F3;
+  background: -moz-linear-gradient(to top, rgba(58, 0, 95, 1),  rgba(39, 24, 126, 1),  rgba(20, 81, 143, 1),  rgba(37, 113, 191, 1));
+  background: -webkit-linear-gradient(to top, rgba(58, 0, 95, 1),  rgba(39, 24, 126, 1),  rgba(20, 81, 143, 1),  rgba(37, 113, 191, 1));
+  background: -o-linear-gradient(to top, rgba(58, 0, 95, 1),  rgba(39, 24, 126, 1),  rgba(20, 81, 143, 1),  rgba(37, 113, 191, 1));
+  background: -ms-linear-gradient(to top, rgba(58, 0, 95, 1),  rgba(39, 24, 126, 1),  rgba(20, 81, 143, 1),  rgba(37, 113, 191, 1));
+  background: linear-gradient(to top, rgba(58, 0, 95, 1),  rgba(39, 24, 126, 1),  rgba(20, 81, 143, 1),  rgba(37, 113, 191, 1));
+}
