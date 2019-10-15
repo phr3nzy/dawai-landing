@@ -1,7 +1,7 @@
 <template>
   <section id="pricing" class="pricing py-5">
     <div class="container">
-      <div class="row mb-5 align-items-center justify-content-center">
+      <div class="row mb-3 align-items-center justify-content-center">
         <h2>Pricing</h2>
       </div>
       <div class="row">
@@ -32,30 +32,30 @@
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
                   >Show Medicine Availability
                 </li>
-                <li>
+                <li class="text-muted">
                   <span class="fa-li"
-                    ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Community Access
+                    ><font-awesome-icon :icon="['fas', 'times']"/></span
+                  >Data Visualization
                 </li>
                 <li class="text-muted">
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'times']"/></span
-                  >Unlimited Private Projects
+                  >Alerts
                 </li>
                 <li class="text-muted">
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'times']"/></span
-                  >Dedicated Phone Support
+                  >Data Export
                 </li>
                 <li class="text-muted">
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'times']"/></span
-                  >Free Subdomain
+                  >Market and Sales Predictions
                 </li>
                 <li class="text-muted">
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'times']"/></span
-                  >Monthly Status Reports
+                  >High Search Visibility
                 </li>
               </ul>
               <a
@@ -86,37 +86,37 @@
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >50GB Storage
+                  >Offline Usage
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Unlimited Public Projects
+                  >Show Medicine Availability
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Community Access
+                  >Data Visualization
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Unlimited Private Projects
-                </li>
-                <li>
-                  <span class="fa-li"
-                    ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Dedicated Phone Support
-                </li>
-                <li>
-                  <span class="fa-li"
-                    ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Free Subdomain
+                  >Alerts
                 </li>
                 <li class="text-muted">
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'times']"/></span
-                  >Monthly Status Reports
+                  >Data Export
+                </li>
+                <li class="text-muted">
+                  <span class="fa-li"
+                    ><font-awesome-icon :icon="['fas', 'times']"/></span
+                  >Market and Sales Predictions
+                </li>
+                <li class="text-muted">
+                  <span class="fa-li"
+                    ><font-awesome-icon :icon="['fas', 'times']"/></span
+                  >High Search Visibility
                 </li>
               </ul>
               <a
@@ -147,37 +147,37 @@
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >150GB Storage
+                  >Offline Usage
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Unlimited Public Projects
+                  >Show Medicine Availability
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Community Access
+                  >Data Visualization
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Unlimited Private Projects
+                  >Alerts
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Dedicated Phone Support
+                  >Data Export
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  ><strong>Unlimited</strong> Free Subdomains
+                  >Market and Sales Predictions
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Monthly Status Reports
+                  >High Search Visibility
                 </li>
               </ul>
               <a

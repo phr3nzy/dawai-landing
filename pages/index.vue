@@ -3,6 +3,7 @@
     <main-jumbotron />
     <about-section />
     <pricing-section />
+    <support-section />
   </b-container>
 </template>
 
@@ -10,6 +11,7 @@
 import MainJumbotron from '@/components/index/MainJumbotron'
 import AboutSection from '@/components/index/AboutSection'
 import PricingSection from '@/components/index/PricingSection'
+import SupportSection from '@/components/index/SupportSection'
 export default {
   head() {
     return {
@@ -33,7 +35,8 @@ export default {
   components: {
     MainJumbotron,
     AboutSection,
-    PricingSection
+    PricingSection,
+    SupportSection
   }
 }
 </script>

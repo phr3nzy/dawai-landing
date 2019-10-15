@@ -1,0 +1,28 @@
+<template>
+  <footer class="footer-classic context-dark mt-5">
+    <b-container class="py-4">
+      <b-row class="row align-items-center justify-content-center">
+        <p>
+          Copyright © <span class="copyright-year">2019</span><span> </span
+          ><span> All Rights Reserved</span><span> | </span>
+          <a href="https://x249.netlify.com" target="blank"> x249</a>
+        </p>
+      </b-row>
+    </b-container>
+  </footer>
+</template>
+
+<style scoped>
+.context-dark,
+.bg-gray-dark,
+.bg-primary {
+  color: rgba(255, 255, 255, 0.8);
+  background: black;
+}
+
+.footer-classic a,
+.footer-classic a:focus,
+.footer-classic a:active {
+  color: #ffffff;
+}
+</style>

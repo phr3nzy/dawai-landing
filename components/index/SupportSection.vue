@@ -1,0 +1,89 @@
+<template>
+  <section id="support">
+    <b-container>
+      <b-row class="mt-5 align-items-center justify-content-center">
+        <h2>Support</h2>
+      </b-row>
+      <b-row class="mb-3 align-items-center justify-content-center">
+        <p>
+          Our brain-washed support is working hard to satisy all your needs!
+          Send them a message or say hello :)
+        </p>
+      </b-row>
+      <b-row class="align-items-center justify-content-center">
+        <b-col sm="6">
+          <b-form v-if="show" @submit="onSubmit" @reset="onReset">
+            <b-form-group id="input-group-2" label-for="input-2">
+              <b-form-input
+                id="input-2"
+                v-model="form.name"
+                required
+                placeholder="Full name"
+              ></b-form-input>
+            </b-form-group>
+
+            <b-form-group
+              id="input-group-1"
+              label-for="input-1"
+              description="We'll never share your email with anyone else."
+            >
+              <b-form-input
+                id="input-1"
+                v-model="form.email"
+                type="email"
+                required
+                placeholder="Email address..."
+              ></b-form-input>
+            </b-form-group>
+
+            <b-form-group id="input-group-3" label-for="input-3">
+              <b-form-textarea
+                id="textarea"
+                v-model="form.text"
+                placeholder="Tell us whats in your mind..."
+                rows="3"
+                max-rows="6"
+              ></b-form-textarea>
+            </b-form-group>
+
+            <b-button class="secondary" type="submit" block>Submit</b-button>
+          </b-form>
+        </b-col>
+      </b-row>
+    </b-container>
+  </section>
+</template>
+
+<script>
+export default {
+  data() {
+    return {
+      form: {
+        email: '',
+        name: '',
+        text: ''
+      },
+      show: true
+    }
+  },
+  methods: {
+    onSubmit(evt) {
+      evt.preventDefault()
+      alert(JSON.stringify(this.form))
+    },
+    onReset(evt) {
+      evt.preventDefault()
+      // Reset our form values
+      this.form.email = ''
+      this.form.name = ''
+      this.form.food = null
+      this.form.checked = []
+      // Trick to reset/clear native browser form validation state
+      this.show = false
+      this.$nextTick(() => {
+        this.show = true
+      })
+    }
+  }
+}
+</script>
