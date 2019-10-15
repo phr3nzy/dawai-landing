@@ -13,7 +13,21 @@ import PricingSection from '@/components/index/PricingSection'
 export default {
   head() {
     return {
-      title: 'Dawai — Home'
+      title: 'Dawai — Home',
+      meta: [
+        {
+          hid: 'description',
+          name: 'description',
+          content:
+            "Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautifully, hand-crafted Charts and meaningful Analytics to increase your performance!"
+        }
+      ],
+      link: [
+        {
+          rel: 'canonical',
+          href: 'https://dawai.netlify.com' + this.$route.path
+        }
+      ]
     }
   },
   components: {

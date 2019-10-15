@@ -2,7 +2,13 @@
   <div>
     <b-navbar class="white" fixed="true" toggleable="lg" variant="info">
       <b-navbar-brand to="/">
-        <b-img class="mr-2" height="40px" src="icon.png"></b-img
+        <b-img
+          class="mr-2"
+          height="40px"
+          src="icon.png"
+          alt="Dawai Logo"
+          aria-label="Dawai Logo Picture"
+        ></b-img
         >Dawai</b-navbar-brand
       >
 
