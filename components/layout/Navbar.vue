@@ -22,8 +22,8 @@
           <b-nav-item active-class="primary--text" to="/#pricing"
             >Pricing</b-nav-item
           >
-          <b-nav-item active-class="primary--text" to="/#support"
-            >Support</b-nav-item
+          <b-nav-item active-class="primary--text" to="/#contact"
+            >Contact Us</b-nav-item
           >
         </b-navbar-nav>
 

@@ -1,12 +1,12 @@
 <template>
-  <section id="support">
+  <section id="contact">
     <b-container>
       <b-row class="mt-5 align-items-center justify-content-center">
-        <h2>Support</h2>
+        <h2>Contact Us</h2>
       </b-row>
       <b-row class="mb-3 align-items-center justify-content-center">
         <p>
-          Our brain-washed support is working hard to satisy all your needs!
+          Our brain-washed support is working hard to satisfy all your needs!
           Send them a message or say hello :)
         </p>
       </b-row>
