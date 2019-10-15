@@ -119,10 +119,10 @@
                   >High Search Visibility
                 </li>
               </ul>
-              <a
-                href="#"
+              <nuxt-link
+                to="/#contact"
                 class="btn btn-block secondary white--text text-uppercase"
-                >Contact Us</a
+                >Contact Us</nuxt-link
               >
             </div>
           </div>
@@ -180,10 +180,10 @@
                   >High Search Visibility
                 </li>
               </ul>
-              <a
-                href="#"
+              <nuxt-link
+                to="/#contact"
                 class="btn btn-block secondary white--text text-uppercase"
-                >Contact Us</a
+                >Contact Us</nuxt-link
               >
             </div>
           </div>
