@@ -15,7 +15,7 @@ import SupportSection from '@/components/index/SupportSection'
 export default {
   head() {
     return {
-      title: 'Dawai — Home',
+      title: 'Dawai — The Medicine Platform',
       meta: [
         {
           hid: 'description',
