@@ -6,7 +6,7 @@
       </div>
       <div class="row">
         <!-- Free Tier -->
-        <div class="col-lg-4">
+        <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="card mb-5 mb-lg-0">
             <div class="card-body">
               <h5 class="card-title text-muted text-uppercase text-center">
@@ -67,7 +67,7 @@
           </div>
         </div>
         <!-- Plus Tier -->
-        <div class="col-lg-4">
+        <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="card mb-5 mb-lg-0">
             <div class="card-body">
               <h5 class="card-title text-muted text-uppercase text-center">
@@ -128,7 +128,7 @@
           </div>
         </div>
         <!-- Pro Tier -->
-        <div class="col-lg-4">
+        <div class="col-lg-4 col-md-6 col-sm-12">
           <div class="card">
             <div class="card-body">
               <h5 class="card-title text-muted text-uppercase text-center">
