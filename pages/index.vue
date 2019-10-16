@@ -15,7 +15,7 @@ import ContactSection from '@/components/index/ContactSection'
 export default {
   head() {
     return {
-      title: 'Dawai — The Medicine Platform',
+      title: 'Dawai — The Medicine Platform for Sudan',
       meta: [
         {
           hid: 'description',
