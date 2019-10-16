@@ -22,8 +22,8 @@
             >
           </p>
         </div>
-        <div class="col-lg-6 order-1 order-lg-2">
-          <img src="/logo-text-whitebg.png" alt="..." class="img-fluid" />
+        <div class="col-lg-6 order-1 order-lg-2 mb-5">
+          <img src="/logo-1024-transparent.svg" alt="..." class="img-fluid" />
         </div>
       </div>
     </div>
