@@ -51,7 +51,7 @@ export default {
           "Dawai is a Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautifully, hand- crafted Charts and meaningful Analytics to increase your performance!",
         locale: 'en-US',
         twitter: '@_phr3nzy',
-        img: '/sudan-map-green-whitebg-min.png',
+        img: 'https://dawai.netlify.com/sudan-map-green-whitebg-min.png',
         themeColor: '#3A005F'
       }
     ],
