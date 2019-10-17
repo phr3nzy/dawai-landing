@@ -3,7 +3,7 @@
     <div class="container my-5">
       <div class="row align-items-center">
         <div class="col-lg-6 order-2 order-lg-1">
-          <h1>Dawai — The Medicine Platform for Sudan</h1>
+          <h1 class="mb-4">Dawai — The Medicine Platform for Sudan</h1>
           <p class="lead">
             Dawai helps patients looking for medicine by providing a search
             function integrated with Pharmacies.
@@ -17,7 +17,7 @@
             <b-button
               id="popover-target-1"
               href="https://dawai-ph.herokuapp.com"
-              class="btn-accent shadow mr-2"
+              class="btn-accent shadow mt-4"
               target="blank"
               size="lg"
               pill
