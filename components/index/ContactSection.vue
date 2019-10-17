@@ -6,8 +6,8 @@
       </b-row>
       <b-row class="mb-3 align-items-center justify-content-center">
         <p>
-          Our brain-washed support is working hard to satisfy all your needs!
-          Send them a message or say hello :)
+          Our brain-washed support team is working hard to satisfy all your
+          needs! Send them a message or say hello :)
         </p>
       </b-row>
       <b-row class="align-items-center justify-content-center">
