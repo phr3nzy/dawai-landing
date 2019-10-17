@@ -14,12 +14,22 @@
             performace and get market predictions!
           </p>
           <p>
-            <a
+            <b-button
+              id="popover-target-1"
               href="https://dawai-ph.herokuapp.com"
-              class="btn btn-primary shadow mr-2"
+              class="shadow mr-2"
+              variant="primary"
               target="blank"
-              >Pharmacy Management Demo</a
+              size="lg"
+              >Pharmacy Management Demo</b-button
             >
+            <b-popover
+              target="popover-target-1"
+              triggers="hover"
+              placement="bottom"
+            >
+              Still a Work in Progress!
+            </b-popover>
           </p>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 mb-5">
@@ -28,25 +38,4 @@
       </div>
     </div>
   </section>
-  <!-- <section id="home">
-    <b-container class="mt-5">
-      <b-row>
-        <b-col
-          ><b-jumbotron
-            class="main-gradient white--text"
-            container-fluid
-            header="Dawai"
-            lead="Medicine Locator and Pharmacy Management Solution for Sudan"
-          >
-            <b-button
-              variant="success"
-              href="https://dawai-ph.herokuapp.com"
-              target="blank"
-              >Pharmacy Management Demo</b-button
-            >
-          </b-jumbotron></b-col
-        >
-      </b-row>
-    </b-container>
-  </section> -->
 </template>
