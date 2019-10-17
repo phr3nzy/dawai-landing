@@ -7,6 +7,7 @@
             class="mx-auto d-block mb-4"
             height="100"
             src="/database.svg"
+            alt="Plenty Database records"
           ></b-img>
           <h3 class="text-center">Plentiful</h3>
           <b-card-text class="text-center">
@@ -24,6 +25,7 @@
             class="mx-auto d-block mb-4"
             height="100"
             src="/savings.svg"
+            alt="Cost Effective in saving money"
           ></b-img>
           <h3 class="text-center">Cost Effective</h3>
           <b-card-text class="text-center">
@@ -41,6 +43,7 @@
             class="mx-auto d-block mb-4"
             height="100"
             src="/collaboration.svg"
+            alt="Open Source for collaboration and growth"
           ></b-img>
           <h3 class="text-center">Open Source</h3>
           <b-card-text class="text-center">
