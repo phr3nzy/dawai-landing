@@ -114,7 +114,13 @@ export default {
   /*
    ** Robots module configuration
    */
-  robots: [{ UserAgent: '*', Disallow: '' }],
+  robots: [
+    {
+      UserAgent: '*',
+      Disallow: '',
+      Sitemap: 'https://dawai.netlify.com/sitemap.xml'
+    }
+  ],
   /*
    ** Web Font Loader config
    */
