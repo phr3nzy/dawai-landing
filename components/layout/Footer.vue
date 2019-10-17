@@ -1,5 +1,5 @@
 <template>
-  <footer class="footer-classic context-dark mt-5">
+  <footer class="footer-classic mt-5">
     <b-container class="py-4">
       <b-row class="row align-items-center justify-content-center">
         <p>
@@ -11,18 +11,3 @@
     </b-container>
   </footer>
 </template>
-
-<style scoped>
-.context-dark,
-.bg-gray-dark,
-.bg-primary {
-  color: rgba(255, 255, 255, 0.8);
-  background: black;
-}
-
-.footer-classic a,
-.footer-classic a:focus,
-.footer-classic a:active {
-  color: #ffffff;
-}
-</style>
