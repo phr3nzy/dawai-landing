@@ -21,6 +21,7 @@
               variant="primary"
               target="blank"
               size="lg"
+              pill
               >Pharmacy Management Demo</b-button
             >
             <b-popover

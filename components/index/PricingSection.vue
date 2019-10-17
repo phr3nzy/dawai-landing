@@ -58,10 +58,12 @@
                   >High Search Visibility
                 </li>
               </ul>
-              <a
+              <b-button
+                class="secondary white--text text-uppercase shadow"
                 href="#"
-                class="btn btn-block secondary white--text text-uppercase"
-                >Sign Up</a
+                pill
+                block
+                >Sign Up</b-button
               >
             </div>
           </div>
@@ -119,10 +121,12 @@
                   >High Search Visibility
                 </li>
               </ul>
-              <nuxt-link
+              <b-button
+                class="secondary white--text text-uppercase shadow"
                 to="/#contact"
-                class="btn btn-block secondary white--text text-uppercase"
-                >Contact Us</nuxt-link
+                pill
+                block
+                >Contact Us</b-button
               >
             </div>
           </div>
@@ -180,10 +184,12 @@
                   >High Search Visibility
                 </li>
               </ul>
-              <nuxt-link
+              <b-button
+                class="secondary white--text text-uppercase shadow"
                 to="/#contact"
-                class="btn btn-block secondary white--text text-uppercase"
-                >Contact Us</nuxt-link
+                pill
+                block
+                >Contact Us</b-button
               >
             </div>
           </div>
