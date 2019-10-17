@@ -52,7 +52,7 @@ export default {
         locale: 'en-US',
         twitter: '@_phr3nzy',
         img: 'https://dawai.netlify.com/sudan-map-green-whitebg-min.png',
-        themeColor: '#3A005F'
+        themeColor: '#69EE6C'
       }
     ],
     [
