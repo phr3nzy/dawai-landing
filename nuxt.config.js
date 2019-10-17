@@ -87,7 +87,7 @@ export default {
     start_url: '/',
     orientation: 'portrait',
     background_color: '#fff',
-    theme_color: '#3A005F'
+    theme_color: '#69EE6C'
   },
   /*
    ** Page Routing Transition
