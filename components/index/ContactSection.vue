@@ -18,14 +18,14 @@
                 id="input-2"
                 v-model="form.name"
                 required
-                placeholder="Full name"
+                placeholder="Full name..."
               ></b-form-input>
             </b-form-group>
 
             <b-form-group
               id="input-group-1"
               label-for="input-1"
-              description="We'll never share your email with anyone else."
+              description="We'll never share your email with anyone else!"
             >
               <b-form-input
                 id="input-1"
@@ -40,7 +40,7 @@
               <b-form-textarea
                 id="textarea"
                 v-model="form.text"
-                placeholder="Tell us whats in your mind..."
+                placeholder="Tell us whats on your mind..."
                 rows="3"
                 max-rows="6"
               ></b-form-textarea>
