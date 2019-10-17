@@ -1,5 +1,10 @@
 <template>
-  <section id="about">
+  <section id="about" class="mb-5">
+    <b-row>
+      <b-col>
+        <h2 class="text-center mb-3">Dawai's Unique Offering</h2>
+      </b-col>
+    </b-row>
     <b-row>
       <b-col class="py-2" lg="4" md="6" sm="12">
         <b-card class="border-0">
