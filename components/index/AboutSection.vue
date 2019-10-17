@@ -2,7 +2,7 @@
   <section id="about" class="mb-5">
     <b-row>
       <b-col>
-        <h2 class="text-center mb-3">Dawai's Unique Offering</h2>
+        <h2 class="text-center my-5">Dawai's Unique Offering</h2>
       </b-col>
     </b-row>
     <b-row>
