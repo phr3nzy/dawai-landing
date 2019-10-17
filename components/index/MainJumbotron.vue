@@ -17,8 +17,7 @@
             <b-button
               id="popover-target-1"
               href="https://dawai-ph.herokuapp.com"
-              class="shadow mr-2"
-              variant="primary"
+              class="btn-accent shadow mr-2"
               target="blank"
               size="lg"
               pill

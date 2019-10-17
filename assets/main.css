@@ -31,9 +31,37 @@
   border: #2571BF;
 }
 
+.primary--text {
+  color: #2571BF !important;
+}
+
 .secondary {
   background-color: #3A005F !important;
   border: #3A005F;
+}
+
+.secondary--text {
+  color: #3A005F !important;
+}
+
+.accent {
+  background-color: #69EE6C !important;
+  border: #69EE6C;
+}
+
+.btn-accent {
+  background-color: #69EE6C !important;
+  border: #69EE6C;
+}
+
+.btn-accent:hover {
+  background-color: hsl(121, 80%, 45%) !important;
+  border: hsl(121, 80%, 45%) !important;
+}
+
+.btn-accent:active {
+  background-color: hsl(121, 80%, 38%) !important;
+  border: hsl(121, 80%, 38%) !important;
 }
 
 .white {

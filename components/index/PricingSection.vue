@@ -59,7 +59,7 @@
                 </li>
               </ul>
               <b-button
-                class="secondary white--text text-uppercase shadow"
+                class="btn-accent white--text text-uppercase shadow"
                 href="#"
                 pill
                 block
@@ -122,7 +122,7 @@
                 </li>
               </ul>
               <b-button
-                class="secondary white--text text-uppercase shadow"
+                class="btn-accent white--text text-uppercase shadow"
                 to="/#contact"
                 pill
                 block
@@ -185,7 +185,7 @@
                 </li>
               </ul>
               <b-button
-                class="secondary white--text text-uppercase shadow"
+                class="btn-accent white--text text-uppercase shadow"
                 to="/#contact"
                 pill
                 block

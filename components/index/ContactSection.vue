@@ -46,7 +46,7 @@
               ></b-form-textarea>
             </b-form-group>
 
-            <b-button class="secondary shadow" type="submit" pill block
+            <b-button class="btn-accent shadow" type="submit" pill block
               >Submit</b-button
             >
           </b-form>
