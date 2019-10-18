@@ -59,6 +59,11 @@
   border: hsl(121, 80%, 45%) !important;
 }
 
+.btn-accent:focus {
+  background-color: hsl(121, 80%, 42%) !important;
+  border: hsl(121, 80%, 42%) !important;
+}
+
 .btn-accent:active {
   background-color: hsl(121, 80%, 38%) !important;
   border: hsl(121, 80%, 38%) !important;
