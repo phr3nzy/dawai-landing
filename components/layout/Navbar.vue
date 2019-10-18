@@ -28,14 +28,14 @@
         </b-navbar-nav>
 
         <!-- Right aligned nav items -->
-        <b-navbar-nav class="ml-auto">
+        <!-- <b-navbar-nav class="ml-auto">
           <b-button class="secondary my-1 mx-2 shadow" pill
             >We accept Donations <font-awesome-icon :icon="['fas', 'donate']"
           /></b-button>
           <b-button class="github-black my-1 mx-2 shadow" pill
             >GitHub Repository <font-awesome-icon :icon="['fab', 'github']"
           /></b-button>
-        </b-navbar-nav>
+        </b-navbar-nav> -->
       </b-collapse>
     </b-navbar>
   </div>
