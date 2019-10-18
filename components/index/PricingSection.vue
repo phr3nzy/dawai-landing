@@ -35,6 +35,11 @@
                 <li class="text-muted">
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'times']"/></span
+                  >Pharmacy Management
+                </li>
+                <li class="text-muted">
+                  <span class="fa-li"
+                    ><font-awesome-icon :icon="['fas', 'times']"/></span
                   >Data Visualization
                 </li>
                 <li class="text-muted">
@@ -59,7 +64,7 @@
                 </li>
               </ul>
               <b-button
-                class="btn-accent white--text text-uppercase shadow"
+                class="btn-neutral white--text text-uppercase shadow"
                 href="#"
                 pill
                 block
@@ -98,11 +103,16 @@
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
-                  >Data Visualization
+                  >Pharmacy Management
                 </li>
                 <li>
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
+                  >Data Visualization
+                </li>
+                <li class="text-muted">
+                  <span class="fa-li"
+                    ><font-awesome-icon :icon="['fas', 'times']"/></span
                   >Alerts
                 </li>
                 <li class="text-muted">
@@ -157,6 +167,11 @@
                   <span class="fa-li"
                     ><font-awesome-icon :icon="['fas', 'check']"/></span
                   >Show Medicine Availability
+                </li>
+                <li>
+                  <span class="fa-li"
+                    ><font-awesome-icon :icon="['fas', 'check']"/></span
+                  >Pharmacy Management
                 </li>
                 <li>
                   <span class="fa-li"

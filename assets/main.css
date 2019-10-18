@@ -69,6 +69,22 @@
   border: hsl(121, 80%, 38%) !important;
 }
 
+.btn-neutral {
+  background-color: hsl(121, 5%, 75%) !important;
+  border: hsl(121, 5%, 75%) !important;
+}
+
+.btn-neutral:hover,
+.btn-neutral:focus {
+  background-color: hsl(121, 5%, 65%) !important;
+  border: hsl(121, 5%, 65%) !important;
+}
+
+.btn-neutral:active {
+  background-color: hsl(121, 5%, 60%) !important;
+  border: hsl(121, 5%, 60%) !important;
+}
+
 .white {
   background-color: white !important;
   border: white;
