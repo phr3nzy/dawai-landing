@@ -5,8 +5,9 @@
         <div class="col-lg-6 order-2 order-lg-1">
           <h1 class="mb-4">Dawai — The Medicine Platform for Sudan</h1>
           <p class="lead">
-            Dawai helps patients looking for medicine by providing a search
-            function integrated with Pharmacies.
+            Dawai helps patients looking for medicine by providing a location
+            search that shows which Pharmacies have the medicine available
+            across Sudan.
           </p>
           <p class="lead">
             Dawai also is a Management solution for Pharmacists and Pharmacy
