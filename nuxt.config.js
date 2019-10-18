@@ -126,7 +126,7 @@ export default {
    */
   webfontloader: {
     google: {
-      families: ['Montserrat:300,400,500,600,700,800&display=swap'] // Loads Montserrat font with swapped display
+      families: ['Montserrat:300,400,500&display=swap'] // Loads Montserrat font with swapped display
     }
   },
   /*
