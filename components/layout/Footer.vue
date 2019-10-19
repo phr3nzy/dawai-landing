@@ -5,11 +5,7 @@
         <p>
           Copyright © <span class="copyright-year">2019</span><span> </span
           ><span> All Rights Reserved</span><span> | </span>
-          <a
-            class="primary--text"
-            href="https://x249.netlify.com"
-            target="blank"
-          >
+          <a class="primary--text" href="https://x249..net" target="blank">
             x249</a
           >
         </p>
