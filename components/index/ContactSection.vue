@@ -12,11 +12,12 @@
       </b-row>
       <b-row class="align-items-center justify-content-center">
         <b-col sm="6">
-          <b-form data-netlify>
+          <b-form action="https://formcarry.com/s/aJlz4Jj0Kcm" method="POST">
             <b-form-group id="input-group-1" label-for="input-1">
               <b-form-input
                 id="input-1"
                 v-model="form.name"
+                name="name"
                 tabindex="1"
                 required
                 placeholder="Full name..."
@@ -32,6 +33,7 @@
                 id="input-2"
                 v-model="form.email"
                 tabindex="2"
+                name="email"
                 type="email"
                 required
                 placeholder="Email address..."
@@ -43,6 +45,7 @@
                 id="input-3"
                 v-model="form.text"
                 tabindex="3"
+                name="message"
                 placeholder="Tell us whats on your mind..."
                 rows="3"
                 max-rows="6"

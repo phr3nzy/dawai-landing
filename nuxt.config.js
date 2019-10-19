@@ -45,13 +45,13 @@ export default {
     [
       'nuxt-social-meta',
       {
-        url: 'https://dawai.netlify.com',
+        url: 'https://dawai.x249.net',
         title: 'Dawai - A Medicine Locator and Pharmacy Management Solution',
         description:
           "Dawai is a Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautifully, hand- crafted Charts and meaningful Analytics to increase your performance!",
         locale: 'en-US',
         twitter: '@_phr3nzy',
-        img: 'https://dawai.netlify.com/sudan-map-green-whitebg-min.png',
+        img: 'https://dawai.x249.net/sudan-map-green-whitebg-min.png',
         themeColor: '#69EE6C'
       }
     ],
@@ -107,7 +107,7 @@ export default {
    ** Sitemap module configuration
    */
   sitemap: {
-    hostname: 'https://dawai.netlify.com',
+    hostname: 'https://dawai.x249.net',
     gzip: true,
     routes: ['/']
   },
@@ -118,7 +118,7 @@ export default {
     {
       UserAgent: '*',
       Disallow: '',
-      Sitemap: 'https://dawai.netlify.com/sitemap.xml'
+      Sitemap: 'https://dawai.x249.net/sitemap.xml'
     }
   ],
   /*

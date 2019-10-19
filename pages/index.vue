@@ -27,7 +27,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://dawai.netlify.com' + this.$route.path
+          href: 'https://dawai.x249.net' + this.$route.path
         }
       ]
     }
