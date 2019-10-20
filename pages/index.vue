@@ -1,15 +1,23 @@
 <template>
-  <b-container>
+  <div>
     <main-jumbotron />
-    <about-section />
-    <pricing-section />
-    <contact-section />
-  </b-container>
+    <b-container>
+      <about-us />
+      <donation-section />
+      <features-section />
+      <how-it-works-section />
+      <pricing-section />
+      <contact-section />
+    </b-container>
+  </div>
 </template>
 
 <script>
 import MainJumbotron from '@/components/index/MainJumbotron'
-import AboutSection from '@/components/index/AboutSection'
+import AboutUs from '@/components/index/AboutUs'
+import DonationSection from '@/components/index/DonationSection'
+import FeaturesSection from '@/components/index/FeaturesSection'
+import HowItWorksSection from '@/components/index/HowItWorksSection'
 import PricingSection from '@/components/index/PricingSection'
 import ContactSection from '@/components/index/ContactSection'
 export default {
@@ -34,7 +42,10 @@ export default {
   },
   components: {
     MainJumbotron,
-    AboutSection,
+    AboutUs,
+    DonationSection,
+    FeaturesSection,
+    HowItWorksSection,
     PricingSection,
     ContactSection
   }

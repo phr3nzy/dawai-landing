@@ -1,6 +1,6 @@
 <template>
   <div>
-    <b-navbar class="white" fixed="true" toggleable="lg" variant="info">
+    <b-navbar class="white" toggleable="lg" variant="info">
       <b-navbar-brand to="/">
         <b-img
           class="mr-2"
@@ -16,13 +16,22 @@
 
       <b-collapse id="nav-collapse" is-nav>
         <b-navbar-nav>
-          <b-nav-item active-class="primary--text" to="/#about"
+          <b-nav-item active-class="accent--text" to="/#about"
             >About</b-nav-item
           >
-          <b-nav-item active-class="primary--text" to="/#pricing"
+          <b-nav-item active-class="accent--text" to="/#donate"
+            >Donate</b-nav-item
+          >
+          <b-nav-item active-class="accent--text" to="/#features"
+            >Features</b-nav-item
+          >
+          <b-nav-item active-class="accent--text" to="/#how-it-works"
+            >How It Works</b-nav-item
+          >
+          <b-nav-item active-class="accent--text" to="/#pricing"
             >Pricing</b-nav-item
           >
-          <b-nav-item active-class="primary--text" to="/#contact"
+          <b-nav-item active-class="accent--text" to="/#contact"
             >Contact Us</b-nav-item
           >
         </b-navbar-nav>

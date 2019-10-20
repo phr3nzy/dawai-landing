@@ -94,8 +94,16 @@
   color: white !important;
 }
 
-.primary--text {
+.secondary--text {
   color: #3A005F !important;
+}
+
+.accent--text {
+  color: #69EE6C !important;
+}
+
+.bg-transparent {
+  background-color: transparent !important;
 }
 
 .github-black {

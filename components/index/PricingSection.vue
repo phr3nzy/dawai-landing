@@ -2,7 +2,7 @@
   <section id="pricing" class="pricing py-5">
     <div class="container">
       <div class="row mb-5 align-items-center justify-content-center">
-        <h2 class="text-center">Pricing for Pharmacists</h2>
+        <h2 class="text-center mt-5">Pricing</h2>
       </div>
       <div class="row">
         <!-- Free Tier -->

@@ -2,10 +2,10 @@
   <section id="contact" class="my-5 py-5">
     <b-container>
       <b-row class="align-items-center justify-content-center">
-        <h2>Contact Us</h2>
+        <h2 class="mb-5">Contact Us</h2>
       </b-row>
       <b-row class="mb-3 align-items-center justify-content-center">
-        <p class="text-center">
+        <p class="text-center lead">
           Our brain-washed support team is working hard to satisfy all your
           needs! Send them a message or say hello :)
         </p>
