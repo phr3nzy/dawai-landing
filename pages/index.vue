@@ -6,7 +6,7 @@
       <donation-section />
       <features-section />
       <how-it-works-section />
-      <pricing-section />
+      <!-- <pricing-section /> -->
       <contact-section />
     </b-container>
   </div>
@@ -18,7 +18,7 @@ import AboutUs from '@/components/index/AboutUs'
 import DonationSection from '@/components/index/DonationSection'
 import FeaturesSection from '@/components/index/FeaturesSection'
 import HowItWorksSection from '@/components/index/HowItWorksSection'
-import PricingSection from '@/components/index/PricingSection'
+// import PricingSection from '@/components/index/PricingSection'
 import ContactSection from '@/components/index/ContactSection'
 export default {
   head() {
@@ -46,7 +46,7 @@ export default {
     DonationSection,
     FeaturesSection,
     HowItWorksSection,
-    PricingSection,
+    // PricingSection,
     ContactSection
   }
 }
