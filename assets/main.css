@@ -50,18 +50,18 @@
 }
 
 .btn-accent {
-  background-color: #69EE6C !important;
-  border: #69EE6C;
+  background-color: hsl(121, 80%, 50%) !important;
+  border: hsl(121, 80%, 50%);
 }
 
 .btn-accent:hover {
-  background-color: hsl(121, 80%, 45%) !important;
-  border: hsl(121, 80%, 45%) !important;
+  background-color: hsl(121, 80%, 40%) !important;
+  border: hsl(121, 80%, 40%) !important;
 }
 
 .btn-accent:focus {
-  background-color: hsl(121, 80%, 42%) !important;
-  border: hsl(121, 80%, 42%) !important;
+  background-color: hsl(121, 80%, 30%) !important;
+  border: hsl(121, 80%, 30%) !important;
 }
 
 .btn-accent:active {
@@ -198,4 +198,9 @@
 
 *::-webkit-scrollbar-thumb:active {
   background: hsl(121, 80%, 45%);
+}
+
+ul.timeline {
+  list-style-type: none;
+  position: relative;
 }
