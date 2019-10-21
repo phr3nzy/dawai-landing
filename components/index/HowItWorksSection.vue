@@ -7,7 +7,11 @@
     </b-row>
     <b-row class="align-items-center justify-content-center my-4">
       <b-col class="mb-3" lg="6" sm="12">
-        <b-img src="/pharmacy-management.png" fluid></b-img>
+        <b-img
+          alt="Pharmacy Management"
+          src="/pharmacy-management.png"
+          fluid
+        ></b-img>
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
         <p class="lead">
@@ -21,7 +25,11 @@
     </b-row>
     <b-row class="align-items-center justify-content-center my-4">
       <b-col class="mb-3" lg="6" sm="12">
-        <b-img src="/pharmacy-management.png" fluid></b-img>
+        <b-img
+          alt="Search for Medicine"
+          src="/pharmacy-management.png"
+          fluid
+        ></b-img>
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
         <p class="lead">
@@ -35,7 +43,7 @@
     </b-row>
     <b-row class="align-items-center justify-content-center my-4">
       <b-col class="mb-3" lg="6" sm="12">
-        <b-img src="/map.png" fluid></b-img>
+        <b-img alt="Results in a Map" src="/map.png" fluid></b-img>
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
         <p class="lead">
