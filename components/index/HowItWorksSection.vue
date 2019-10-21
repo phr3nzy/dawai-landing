@@ -14,7 +14,7 @@
           Pharmacies will manage their inventory and declare the availability of
           their medicine
         </p>
-        <b-button class="btn-accent shadow" size="lg" pill
+        <b-button class="btn-accent shadow" size="lg" block pill
           >See it in Action!</b-button
         >
       </b-col>
@@ -28,7 +28,7 @@
           Patients will search for the medicine and automatically be connected
           to the pharmacies’ inventory
         </p>
-        <b-button class="btn-accent shadow" size="lg" pill
+        <b-button class="btn-accent shadow" size="lg" block pill
           >Try it Now!</b-button
         >
       </b-col>

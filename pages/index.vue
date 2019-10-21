@@ -7,6 +7,7 @@
       <features-section />
       <how-it-works-section />
       <!-- <pricing-section /> -->
+      <extra-info-section />
       <contact-section />
     </b-container>
   </div>
@@ -19,6 +20,7 @@ import DonationSection from '@/components/index/DonationSection'
 import FeaturesSection from '@/components/index/FeaturesSection'
 import HowItWorksSection from '@/components/index/HowItWorksSection'
 // import PricingSection from '@/components/index/PricingSection'
+import ExtraInfoSection from '@/components/index/ExtraInfoSection'
 import ContactSection from '@/components/index/ContactSection'
 export default {
   head() {
@@ -47,6 +49,7 @@ export default {
     FeaturesSection,
     HowItWorksSection,
     // PricingSection,
+    ExtraInfoSection,
     ContactSection
   }
 }

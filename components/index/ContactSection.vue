@@ -4,13 +4,17 @@
       <b-row class="align-items-center justify-content-center">
         <h2 class="mb-5">Contact Us</h2>
       </b-row>
-      <b-row class="mb-3 align-items-center justify-content-center">
-        <p class="text-center lead">
-          Our brain-washed support team is working hard to satisfy all your
-          needs! Send them a message or say hello :)
-        </p>
-      </b-row>
-      <b-row class="align-items-center justify-content-center">
+      <p class="text-center lead">
+        Have any questions for us? You can reach out to us by calling us in the
+        numbers below:
+      </p>
+      <p class="text-center lead">
+        0127604560 - 0121812240
+      </p>
+      <p class="text-center lead">
+        Or simply drop us an email:
+      </p>
+      <b-row class="mt-5 align-items-center justify-content-center">
         <b-col sm="6">
           <b-form action="https://formcarry.com/s/aJlz4Jj0Kcm" method="POST">
             <b-form-group id="input-group-1" label-for="input-1">
@@ -61,6 +65,21 @@
               >Submit</b-button
             >
           </b-form>
+        </b-col>
+      </b-row>
+      <b-row class="mt-5 pt-5 align-items-center justify-content-center">
+        <b-col class="text-center">
+          <h2 class="mb-5">Follow us for the latest Updates!</h2>
+          <iframe
+            src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fx249sudan%2F&width=450&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId=392074071358932"
+            width="450"
+            height="80"
+            style="border:none;overflow:hidden"
+            scrolling="no"
+            frameborder="0"
+            allowTransparency="true"
+            allow="encrypted-media"
+          ></iframe>
         </b-col>
       </b-row>
     </b-container>
