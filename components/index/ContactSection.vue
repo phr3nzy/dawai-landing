@@ -71,9 +71,9 @@
         <b-col class="text-center">
           <h2 class="mb-5">Follow us for the latest Updates!</h2>
           <iframe
-            src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fx249sudan&width=50&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId=392074071358932"
-            width="50"
-            height="80"
+            src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fx249sudan&width=200&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId=392074071358932"
+            width="200"
+            height="auto"
             style="border:none;overflow:hidden"
             scrolling="no"
             frameborder="0"
