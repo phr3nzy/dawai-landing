@@ -10,7 +10,7 @@
         <b-card class="border-0 bg-transparent">
           <b-img
             class="mx-auto d-block mb-4"
-            height="250"
+            height="220"
             src="/find-by-location.svg"
             alt="Locational Search for Medicine"
           ></b-img>
@@ -27,7 +27,7 @@
         <b-card class="border-0 bg-transparent">
           <b-img
             class="mx-auto d-block mb-4"
-            height="250"
+            height="220"
             src="/increased-sales.svg"
             alt="Increased Sales and Performance"
           ></b-img>
@@ -45,7 +45,7 @@
         <b-card class="border-0 bg-transparent">
           <b-img
             class="mx-auto d-block mb-4"
-            height="250"
+            height="220"
             src="/notification-alerts.svg"
             alt="Alert System fo Patients Relief"
           ></b-img>
