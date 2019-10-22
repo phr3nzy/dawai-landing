@@ -52,7 +52,7 @@ export default {
         locale: 'en-US',
         twitter: '@_phr3nzy',
         img: 'https://dawai.x249.net/sudan-map-green-whitebg-min.png',
-        themeColor: '#69EE6C'
+        themeColor: '#19e51c'
       }
     ],
     [
@@ -87,7 +87,7 @@ export default {
     start_url: '/',
     orientation: 'portrait',
     background_color: '#fff',
-    theme_color: '#69EE6C'
+    theme_color: '#19e51c'
   },
   /*
    ** Page Routing Transition

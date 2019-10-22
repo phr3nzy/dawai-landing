@@ -45,13 +45,13 @@
 }
 
 .accent {
-  background-color: #69EE6C !important;
-  border: #69EE6C;
+  background-color: #19e51c !important;
+  border: #19e51c;
 }
 
 .btn-accent {
-  background-color: hsl(121, 80%, 50%) !important;
-  border: hsl(121, 80%, 50%);
+  background-color: #19e51c !important;
+  border: #19e51c;
 }
 
 .btn-accent:hover {
@@ -99,7 +99,7 @@
 }
 
 .accent--text {
-  color: #69EE6C !important;
+  color: #19e51c !important;
 }
 
 .bg-transparent {
