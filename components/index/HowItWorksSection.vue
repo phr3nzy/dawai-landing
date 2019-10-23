@@ -18,7 +18,13 @@
           Pharmacies will manage their inventory and declare the availability of
           their medicine
         </p>
-        <b-button class="btn-accent shadow" size="lg" block pill
+        <b-button
+          href="https://dawai-ph.herokuapp.com/dashboard"
+          target="blank"
+          class="btn-accent shadow"
+          size="lg"
+          block
+          pill
           >See it in Action!</b-button
         >
       </b-col>
@@ -32,7 +38,13 @@
           Patients will search for the medicine and automatically be connected
           to the pharmacies’ inventory
         </p>
-        <b-button class="btn-accent shadow" size="lg" block pill
+        <b-button
+          href="https://dawai-ph.herokuapp.com/"
+          target="blank"
+          class="btn-accent shadow"
+          size="lg"
+          block
+          pill
           >Try it Now!</b-button
         >
       </b-col>
