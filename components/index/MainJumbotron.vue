@@ -5,8 +5,8 @@
         <div class="col-lg-6 order-2 order-lg-1">
           <h1 class="mb-4">Sudan's First Online Medicine Finder</h1>
           <p class="lead">
-            Dawai helps patients by connecting them directly to the pharmacies'
-            inventory.
+            Dawai helps patients find medicine by connecting them directly to
+            the pharmacies' inventory.
           </p>
           <p class="lead">
             Help us reach our goal by donating!
