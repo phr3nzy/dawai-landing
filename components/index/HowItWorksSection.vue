@@ -5,12 +5,11 @@
         <h2 class="text-center my-5">How It Works</h2>
       </b-col>
     </b-row>
-    <b-row class="align-items-center justify-content-center my-4">
+    <b-row class="align-items-center justify-content-center my-5">
       <b-col class="mb-3" lg="6" sm="12">
         <b-img
-          style="border-radius: 30px;"
           alt="Pharmacy Management"
-          src="/pharmacy-management.png"
+          src="/pharmacy-management.svg"
           fluid
         ></b-img>
       </b-col>
@@ -24,14 +23,9 @@
         >
       </b-col>
     </b-row>
-    <b-row class="align-items-center justify-content-center my-4">
+    <b-row class="align-items-center justify-content-center my-5">
       <b-col class="mb-3" lg="6" sm="12">
-        <b-img
-          style="border-radius: 30px;"
-          alt="Search for Medicine"
-          src="/search.png"
-          fluid
-        ></b-img>
+        <b-img alt="Search for Medicine" src="/search.svg" fluid></b-img>
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
         <p class="lead">
@@ -43,14 +37,9 @@
         >
       </b-col>
     </b-row>
-    <b-row class="align-items-center justify-content-center my-4">
+    <b-row class="align-items-center justify-content-center my-5">
       <b-col class="mb-3" lg="6" sm="12">
-        <b-img
-          style="border-radius: 30px;"
-          alt="Results in a Map"
-          src="/map.png"
-          fluid
-        ></b-img>
+        <b-img alt="Results in a Map" src="/map.svg" fluid></b-img>
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
         <p class="lead">
