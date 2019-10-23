@@ -35,6 +35,16 @@
           </b-progress-bar>
         </b-progress>
       </b-col>
+      <b-col class="text-center" cols="12">
+        <b-button
+          class="btn-accent shadow mt-5"
+          size="lg"
+          href="https://www.github.com/phr3nzy/dawai"
+          target="blank"
+          pill
+          >Learn More</b-button
+        >
+      </b-col>
     </b-row>
   </section>
 </template>
