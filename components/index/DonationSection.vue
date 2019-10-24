@@ -5,7 +5,7 @@
         <h2 class="text-center mb-5">Donate</h2>
         <p class="lead">
           Our goal for hosting Dawai and paying for variable costs is
-          <span class="font-weight-bold">$3000</span>. Donating as little as 1
+          <span class="font-weight-bold">$6000</span>. Donating as little as 1
           SDG will help us. You can donate to us through the following bank
           account:
         </p>
@@ -26,12 +26,12 @@
         <h4 class="text-center mb-5">Progress:</h4>
         <b-progress
           style="border-radius: 50rem; background-color: rgba(200,200,200,0.2);"
-          :max="3000"
+          :max="6000"
           height="2.6rem"
           animated
         >
-          <b-progress-bar class="accent" :value="100">
-            <strong class="secondary--text ml-3">0 / 3000 USD</strong>
+          <b-progress-bar class="red" :value="100">
+            <strong class="secondary--text ml-3">0 / 6000 USD</strong>
           </b-progress-bar>
         </b-progress>
       </b-col>

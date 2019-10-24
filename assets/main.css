@@ -35,6 +35,10 @@
   color: #3A005F !important;
 }
 
+.red {
+  background-color: rgb(211, 3, 3);
+}
+
 .accent {
   background-color: #19e51c !important;
   border: #19e51c;
