@@ -28,9 +28,9 @@
           ><font-awesome-icon :icon="['fas', 'cogs']" /> How It
           Works</b-nav-item
         >
-        <b-nav-item active-class="accent--text" to="/#pricing"
+        <!-- <b-nav-item active-class="accent--text" to="/#pricing"
           ><font-awesome-icon :icon="['fas', 'coins']" /> Pricing</b-nav-item
-        >
+        > -->
         <b-nav-item active-class="accent--text" to="/#contact"
           ><font-awesome-icon :icon="['fas', 'envelope']" /> Contact
           Us</b-nav-item
