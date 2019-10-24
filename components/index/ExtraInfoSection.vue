@@ -1,6 +1,6 @@
 <template>
   <section id="extra-info">
-    <h2 class="text-center mb-5">Transparency is Key</h2>
+    <h2 class="text-center mb-5">Collaboration is Key!</h2>
     <p class="lead">
       Our software is <span class="font-weight-bold">Open Source</span>, meaning
       the source code is available for anyone else to use and see. We want to
