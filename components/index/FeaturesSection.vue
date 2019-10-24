@@ -1,8 +1,8 @@
 <template>
-  <section id="features" class="my-5">
+  <section id="features">
     <b-row>
       <b-col>
-        <h2 class="text-center my-5">Features</h2>
+        <h2 class="text-center mb-5">Features</h2>
       </b-col>
     </b-row>
     <b-row>
@@ -62,3 +62,9 @@
     </b-row>
   </section>
 </template>
+
+<style scoped>
+#features {
+  margin-bottom: 20vh;
+}
+</style>

@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="index-page">
     <main-jumbotron />
     <b-container>
       <about-us />
@@ -54,3 +54,9 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+#index-page {
+  padding: 0 !important;
+}
+</style>

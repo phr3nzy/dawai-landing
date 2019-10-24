@@ -1,8 +1,8 @@
 <template>
-  <section id="donate" class="my-5">
+  <section id="donate">
     <b-row>
       <b-col>
-        <h2 class="text-center my-5">Donate</h2>
+        <h2 class="text-center mb-5">Donate</h2>
         <p class="lead">
           Our goal for hosting Dawai and paying for variable costs is
           <span class="font-weight-bold">$3000</span>. Donating as little as 1
@@ -48,3 +48,9 @@
     </b-row>
   </section>
 </template>
+
+<style scoped>
+#donate {
+  margin-bottom: 20vh;
+}
+</style>

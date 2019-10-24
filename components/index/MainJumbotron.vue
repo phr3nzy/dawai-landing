@@ -1,5 +1,5 @@
 <template
-  ><section id="home" class="mb-5 pb-5">
+  ><section id="home">
     <div class="container mb-5">
       <div class="row align-items-center">
         <div class="col-lg-6 order-2 order-lg-1">
@@ -40,3 +40,9 @@
     </div>
   </section>
 </template>
+
+<style scoped>
+#home {
+  margin-bottom: 20vh;
+}
+</style>

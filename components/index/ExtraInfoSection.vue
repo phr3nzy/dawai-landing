@@ -1,5 +1,5 @@
 <template>
-  <section class="my-5">
+  <section id="extra-info">
     <h2 class="text-center mb-5">Transparency is Key</h2>
     <p class="lead">
       Our software is <span class="font-weight-bold">Open Source</span>, meaning
@@ -29,7 +29,7 @@
         pill
         >GitHub Repository </b-button>
     </div> -->
-    <h2 class="text-center my-5">Do You Share our Vision?</h2>
+    <h2 class="text-center my-5 pt-5">Do You Share our Vision?</h2>
     <p class="lead">
       If you truly think we can advance Sudan and make people’s lives easier by
       developing this software, please consider making a donation.
@@ -68,3 +68,9 @@
     </div>
   </section>
 </template>
+
+<style scoped>
+#extra-info {
+  margin-bottom: 20vh;
+}
+</style>

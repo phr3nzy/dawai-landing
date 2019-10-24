@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div id="app">
     <navbar />
     <nuxt />
     <Footer />
@@ -16,3 +16,10 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+#app {
+  padding: 0;
+  margin: 0;
+}
+</style>

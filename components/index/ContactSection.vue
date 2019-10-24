@@ -1,5 +1,5 @@
 <template>
-  <section id="contact" class="my-5 py-5">
+  <section id="contact">
     <b-container>
       <b-row class="align-items-center justify-content-center">
         <h2 class="mb-5">Contact Us</h2>
@@ -99,6 +99,12 @@ export default {
   }
 }
 </script>
+
+<style scoped>
+#contact {
+  margin-bottom: 20vh;
+}
+</style>
 
 <style>
 #input-1,
