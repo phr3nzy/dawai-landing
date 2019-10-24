@@ -45,7 +45,7 @@
           size="lg"
           block
           pill
-          >Try it Now!</b-button
+          >Search Now!</b-button
         >
       </b-col>
     </b-row>
