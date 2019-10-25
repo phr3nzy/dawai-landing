@@ -5806,11 +5806,6 @@ nuxt-helmet@^1.2.1:
     consola "^2.10.1"
     helmet "^3.21.1"
 
-nuxt-social-meta@^0.0.1:
-  version "0.0.1"
-  resolved "https://registry.yarnpkg.com/nuxt-social-meta/-/nuxt-social-meta-0.0.1.tgz#f31cfee523dbf10920936b9ed90d6ecfc0030892"
-  integrity sha512-Jo72poDZdRdKO66wyAuP/XRE5wKhLkYDOz8GWzX5+fcbz5Gfwyw3Jz8VPOweDHmxjwE0ijTOdIU92y9puR3zuQ==
-
 nuxt-webfontloader@^1.1.0:
   version "1.1.0"
   resolved "https://registry.yarnpkg.com/nuxt-webfontloader/-/nuxt-webfontloader-1.1.0.tgz#68b47ffbeaee4c41969f42f57a86946e0c36715c"

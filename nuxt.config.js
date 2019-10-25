@@ -4,15 +4,9 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: process.env.npm_package_name || '',
     meta: [
       { charset: 'utf-8' },
-      { name: 'viewport', content: 'width=device-width, initial-scale=1' },
-      {
-        hid: 'description',
-        name: 'description',
-        content: process.env.npm_package_description || ''
-      }
+      { name: 'viewport', content: 'width=device-width, initial-scale=1' }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
@@ -49,19 +43,6 @@ export default {
     'nuxt-helmet',
     'bootstrap-vue/nuxt',
     [
-      'nuxt-social-meta',
-      {
-        url: 'https://dawai.x249.net',
-        title: 'Dawai - A Medicine Locator and Pharmacy Management Solution',
-        description:
-          "Dawai is a Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautifully, hand- crafted Charts and meaningful Analytics to increase your performance!",
-        locale: 'en-US',
-        twitter: '@_phr3nzy',
-        img: 'https://dawai.x249.net/sudan-map-green-whitebg-min.png',
-        themeColor: '#19e51c'
-      }
-    ],
-    [
       'nuxt-fontawesome',
       {
         imports: [
@@ -85,8 +66,7 @@ export default {
    ** Manifest setup
    */
   manifest: {
-    name:
-      'Dawai - Medicine Locator and Pharmacy Management Solution for Sudan 💊🇸🇩✨',
+    name: 'Dawai',
     short_name: 'Dawai',
     lang: 'en',
     display: 'standalone',

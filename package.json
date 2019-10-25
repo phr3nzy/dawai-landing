@@ -33,7 +33,6 @@
     "nuxt": "^2.0.0",
     "nuxt-fontawesome": "^0.4.0",
     "nuxt-helmet": "^1.2.1",
-    "nuxt-social-meta": "^0.0.1",
     "nuxt-webfontloader": "^1.1.0"
   },
   "devDependencies": {

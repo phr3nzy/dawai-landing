@@ -36,6 +36,32 @@ export default {
           name: 'description',
           content:
             "الطب تحديد المواقع والحلول إدارة الصيدلة للسودان. ابحث وابحث عن أي دواء في السودان باستخدام قاعدة بياناتنا التي تضم أكثر من 4000 سجل مرتبطة بالصيدليات في جميع أنحاء البلاد. قم بإدارة الصيدلية بالكامل باستخدام برنامج Dawai's Management الذي يمنحك مخططات بيانية جميلة وتحليلات ذات معنى!"
+        },
+        // Open Graph
+        { name: 'og:title', content: 'دواي — منصة الدواء للسودان' },
+        {
+          name: 'og:description',
+          content:
+            "الطب تحديد المواقع والحلول إدارة الصيدلة للسودان. ابحث وابحث عن أي دواء في السودان باستخدام قاعدة بياناتنا التي تضم أكثر من 4000 سجل مرتبطة بالصيدليات في جميع أنحاء البلاد. قم بإدارة الصيدلية بالكامل باستخدام برنامج Dawai's Management الذي يمنحك مخططات بيانية جميلة وتحليلات ذات معنى!"
+        },
+        { name: 'og:type', content: 'website' },
+        { name: 'og:url', content: 'https://dawai.x249.net/ar' },
+        {
+          name: 'og:image',
+          content: 'https://dawai.x249.net/sudan-map-green-whitebg-min.png'
+        },
+        // Twitter Card
+        { name: 'twitter:card', content: 'summary' },
+        { name: 'twitter:site', content: '@_phr3nzy' },
+        { name: 'twitter:title', content: 'دواي — منصة الدواء للسودان' },
+        {
+          name: 'twitter:description',
+          content:
+            "الطب تحديد المواقع والحلول إدارة الصيدلة للسودان. ابحث وابحث عن أي دواء في السودان باستخدام قاعدة بياناتنا التي تضم أكثر من 4000 سجل مرتبطة بالصيدليات في جميع أنحاء البلاد. قم بإدارة الصيدلية بالكامل باستخدام برنامج Dawai's Management الذي يمنحك مخططات بيانية جميلة وتحليلات ذات معنى!"
+        },
+        {
+          name: 'twitter:image',
+          content: 'https://dawai.x249.net/sudan-map-green-whitebg-min.png'
         }
       ],
       link: [
