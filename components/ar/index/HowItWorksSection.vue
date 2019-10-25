@@ -35,7 +35,7 @@
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
         <p class="lead text-center">
-          المريض سيبحث على الدواء و يجد مكان توفره في الصيدلية حسب مخزونها
+          المريض سيبحث على الدواء و يجد الصيدلية التي توفره
         </p>
         <b-row class="align-items-center justify-content-center">
           <b-button
