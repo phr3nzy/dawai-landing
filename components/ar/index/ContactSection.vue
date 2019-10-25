@@ -66,21 +66,6 @@
           </b-form>
         </b-col>
       </b-row>
-      <b-row class="mt-5 pt-5 align-items-center justify-content-center">
-        <b-col class="text-center">
-          <h2 class="mb-5">تابعنا عبر صفحتنا كي لا تضيع أي تحديث</h2>
-          <iframe
-            src="https://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fx249sudan&width=200&layout=standard&action=like&size=large&show_faces=true&share=true&height=80&appId=392074071358932"
-            width="200"
-            height="auto"
-            style="border:none;overflow:hidden"
-            scrolling="no"
-            frameborder="0"
-            allowTransparency="true"
-            allow="encrypted-media"
-          ></iframe>
-        </b-col>
-      </b-row>
     </b-container>
   </section>
 </template>
