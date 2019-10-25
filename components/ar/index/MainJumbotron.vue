@@ -3,13 +3,16 @@
     <div class="container mb-5">
       <div class="row align-items-center">
         <div class="col-lg-6 order-2 order-lg-1">
-          <b-row class="float-right">
+          <b-row class="align-items-center justify-content-center">
             <h1 class="mb-4 text-center">
               إيجاد الدواء لم يكن بهذه السهولة
             </h1>
             <p class="lead text-center">
               دواي يساعد المرضى على إيجاد مكان الدواء أونلاين بكل سهولة و بأسرع
-              طريقة. ساعدونا لبدأ هذا المشروع بالتبرعات!
+              طريقة.
+            </p>
+            <p class="lead text-center">
+              ساعدونا لبدأ هذا المشروع بالتبرعات!
             </p>
           </b-row>
           <b-row class="align-items-center justify-content-center">

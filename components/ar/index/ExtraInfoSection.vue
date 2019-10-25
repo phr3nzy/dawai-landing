@@ -32,13 +32,13 @@
       إذا كنت تؤمن حقا بأن دواي سيساهم في تطوير السودان و جعل حياة السودانيين
       أسهل, فضلا, تبرعك سيساهم في ذلك
     </p>
-    <!-- <div class="text-center mb-5">
+    <div class="text-center mb-5">
       <b-button class="mt-3 btn-accent shadow" to="/#donate" size="lg" pill
-        >Donate Here</b-button
+        >تبرعو الآن</b-button
       >
-    </div> -->
-    <p class="lead text-center my-5">
-      سوف يكون أيضا من جزيل شكرا نشر صفحتنا لكل من تعرفه عبر صفحات التواصل
+    </div>
+    <p class="lead text-center my-5 pt-5">
+      سوف يكون أيضا من جزيل شكرنا نشر صفحتنا لكل من تعرفه عبر صفحات التواصل
       الاجتماعي التالية
     </p>
     <div class="text-center my-5">
