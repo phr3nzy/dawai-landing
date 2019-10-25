@@ -15,7 +15,7 @@
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
         <p class="lead text-center">
-          الصيدليات سوف تدير مخزونها و جعل الدواء متاح للبحث
+          الصيدليات سوف تدير مخزونها و تجعل الدواء متاح للبحث
         </p>
         <b-row class="align-items-center justify-content-center">
           <b-button
