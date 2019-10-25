@@ -21,19 +21,13 @@ export default {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: [],
+  plugins: [{ src: '~/plugins/ga.js', ssr: false }],
   /*
    ** Nuxt.js dev-modules
    */
   buildModules: [
     // Doc: https://github.com/nuxt-community/eslint-module
-    '@nuxtjs/eslint-module',
-    [
-      '@nuxtjs/google-analytics',
-      {
-        id: 'UA-113175665-3'
-      }
-    ]
+    '@nuxtjs/eslint-module'
   ],
   /*
    ** Nuxt.js modules
