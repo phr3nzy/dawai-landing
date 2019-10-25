@@ -41,7 +41,7 @@ export default {
       link: [
         {
           rel: 'canonical',
-          href: 'https://dawai.x249.net' + this.$route.path
+          href: 'https://dawai.x249.net'
         }
       ]
     }
