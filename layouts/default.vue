@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-    <navbar />
     <nuxt />
-    <Footer />
   </div>
 </template>
 
