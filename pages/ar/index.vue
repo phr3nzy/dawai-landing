@@ -38,16 +38,16 @@ export default {
             'ابحث عن أي دواء في السودان عبر البحث في قاعده بيانات دواي التي تضم اكثر من 4000 دواء. سرع عمليه البيع في صيدليتك بإستخدام منصه دواي. دواي هي منصه تسرع عمليه تفتيش الدواء للمستخدم عبر توصيله للصيدليات في ارجاء البلاد, وتسريع عمليه البيع للصيدليلات عبر جلبهم الزبائن'
         },
         // Open Graph
-        { name: 'og:title', content: 'دواي — منصة الدواء للسودان' },
+        { property: 'og:title', content: 'دواي — منصة الدواء للسودان' },
         {
-          name: 'og:description',
+          property: 'og:description',
           content:
             'ابحث عن أي دواء في السودان عبر البحث في قاعده بيانات دواي التي تضم اكثر من 4000 دواء. سرع عمليه البيع في صيدليتك بإستخدام منصه دواي. دواي هي منصه تسرع عمليه تفتيش الدواء للمستخدم عبر توصيله للصيدليات في ارجاء البلاد, وتسريع عمليه البيع للصيدليلات عبر جلبهم الزبائن'
         },
-        { name: 'og:type', content: 'website' },
-        { name: 'og:url', content: 'https://dawai.x249.net/ar' },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:url', content: 'https://dawai.x249.net/ar' },
         {
-          name: 'og:image',
+          property: 'og:image',
           content: 'https://dawai.x249.net/sudan-map-green-whitebg-min.png'
         },
         // Twitter Card

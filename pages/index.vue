@@ -39,18 +39,18 @@ export default {
         },
         // Open Graph
         {
-          name: 'og:title',
+          property: 'og:title',
           content: 'Dawai — The Medicine Platform for Sudan'
         },
         {
-          name: 'og:description',
+          property: 'og:description',
           content:
             "Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautiful Charts and meaningful Analytics!"
         },
-        { name: 'og:type', content: 'website' },
-        { name: 'og:url', content: 'https://dawai.x249.net/ar' },
+        { property: 'og:type', content: 'website' },
+        { property: 'og:url', content: 'https://dawai.x249.net/ar' },
         {
-          name: 'og:image',
+          property: 'og:image',
           content: 'https://dawai.x249.net/sudan-map-green-whitebg-min.png'
         },
         // Twitter Card
