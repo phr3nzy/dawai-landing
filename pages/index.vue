@@ -60,6 +60,7 @@ export default {
           name: 'twitter:title',
           content: 'Dawai — The Medicine Platform for Sudan'
         },
+        { name: 'twitter:url', content: 'https://dawai.x249.net/' },
         {
           name: 'twitter:description',
           content:
