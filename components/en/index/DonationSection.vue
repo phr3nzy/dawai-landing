@@ -18,9 +18,9 @@
             ></b-img>
           </b-col>
           <b-col lg="4">
-            <h6>Osama Adil Alkhair Elnour</h6>
-            <h6>0193021136840001</h6>
-            <h6>Bank of Khartoum</h6>
+            <h6 class="text-center">Osama Adil Alkhair Elnour</h6>
+            <h6 class="text-center">0193021136840001</h6>
+            <h6 class="text-center">Bank of Khartoum</h6>
           </b-col>
         </b-row>
         <h4 class="text-center mb-5">Progress:</h4>
