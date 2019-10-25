@@ -62,6 +62,25 @@
         </p></b-col
       >
     </b-row>
+    <b-row class="align-items-center justify-content-center mt-5 pt-5">
+      <p class="lead">Are you a pharmacy owner? Interested in joining Dawai?</p>
+    </b-row>
+    <b-row class="align-items-center justify-content-center">
+      <p class="lead">
+        Join us now by filling the form below and earn our early subscriber
+        gift!
+      </p>
+    </b-row>
+    <b-row class="align-items-center justify-content-center">
+      <b-button
+        href="https://x249.typeform.com/to/Kd482p"
+        target="_blank"
+        class="btn-accent shadow"
+        size="lg"
+        pill
+        >Join us Now!</b-button
+      >
+    </b-row>
   </section>
 </template>
 

@@ -60,6 +60,24 @@
         </p></b-col
       >
     </b-row>
+    <b-row class="align-items-center justify-content-center mt-5 pt-5">
+      <p class="lead">هل أنت مهتم بالإنضمام لدواي؟ هل تملك صيدلية؟</p>
+    </b-row>
+    <b-row class="align-items-center justify-content-center">
+      <p class="lead">
+        لا تضيع الفرصة و إنضم إلينا و تمتع بهدية المشترك المبكر!
+      </p>
+    </b-row>
+    <b-row class="align-items-center justify-content-center">
+      <b-button
+        href="https://x249.typeform.com/to/PnKdyB"
+        target="_blank"
+        class="btn-accent shadow"
+        size="lg"
+        pill
+        >انضمو إلينا الآن!</b-button
+      >
+    </b-row>
   </section>
 </template>
 
