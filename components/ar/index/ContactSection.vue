@@ -8,12 +8,13 @@
         هل لديك أي سؤال؟ يمكنك التواصل معنا عبر الأرقام التالية
       </p>
       <p class="text-center lead">
-        0127604560 - 0121812240
+        <a class="accent--text" href="tel:+249127604560">0127604560</a> -
+        <a class="accent--text" href="tel:+249121812240">0121812240</a>
       </p>
       <p class="text-center lead">
         أو عبر الإيميل
       </p>
-      <b-row class="mt-5 align-items-center justify-content-center">
+      <b-row class="mt-3 align-items-center justify-content-center">
         <b-col sm="6">
           <b-form action="https://formcarry.com/s/aJlz4Jj0Kcm" method="POST">
             <b-form-group id="input-group-1" label-for="input-1">
