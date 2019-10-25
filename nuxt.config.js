@@ -109,7 +109,7 @@ export default {
   sitemap: {
     hostname: 'https://dawai.x249.net',
     gzip: true,
-    routes: ['/']
+    routes: ['/', '/ar']
   },
   /*
    ** Robots module configuration
