@@ -62,7 +62,7 @@
               tabindex="4"
               pill
               block
-              >Submit</b-button
+              >إرسال</b-button
             >
           </b-form>
         </b-col>
