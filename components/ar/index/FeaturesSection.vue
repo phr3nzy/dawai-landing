@@ -2,7 +2,7 @@
   <section id="features">
     <b-row>
       <b-col>
-        <h2 class="text-center mb-5">Features</h2>
+        <h2 class="text-center mb-5">مميزات دواي</h2>
       </b-col>
     </b-row>
     <b-row>
@@ -14,11 +14,11 @@
             src="/find-by-location.svg"
             alt="Locational Search for Medicine"
           ></b-img>
-          <h3 class="text-center">Locational Search</h3>
+          <h3 class="text-center">البحث المكاني</h3>
           <b-card-text class="text-center">
             <p class="lead">
-              Using a database of more than 4000 medicine records, find the
-              medicine you're looking for in the nearest pharmacy available.
+              بإمكانك البحث عن الدواء بكل بساطة عبر مجرد كتب اسم الدواء و إيجاد
+              مكان الصيدلية التي تبيعه
             </p>
           </b-card-text>
         </b-card></b-col
@@ -31,12 +31,11 @@
             src="/increased-sales.svg"
             alt="Increased Sales and Performance"
           ></b-img>
-          <h3 class="text-center">Increased Sales</h3>
+          <h3 class="text-center">سرعة المبيعات</h3>
           <b-card-text class="text-center">
             <p class="lead">
-              Our Cloud-Based solution will help pharmacies to sell better and
-              advertise the availability of their medicine by just managing
-              their inventory.
+              حلنا الإلكتروني سيساعد الصيدليات بالتركيز على جلب الدواء, و ترك
+              معانة بيع الدواء سريعا و قبل انتهائه و جلب الزبائن لنا. و أكثر!
             </p>
           </b-card-text>
         </b-card></b-col
@@ -49,12 +48,11 @@
             src="/notification-alerts.svg"
             alt="Alert System fo Patients Relief"
           ></b-img>
-          <h3 class="text-center">Alert System</h3>
+          <h3 class="text-center">نظام الإشعارات</h3>
           <b-card-text class="text-center">
             <p class="lead">
-              Patients looking for medicine that is unavailable will be notified
-              as soon as it is back in stock so they won't have to constantly
-              check in with the pharmacy.
+              بحثت عن دواء و لم تجده عندنا؟ سوف نرسل لك إشعار بوصوله بأسرع وقت
+              ممكن
             </p>
           </b-card-text>
         </b-card></b-col

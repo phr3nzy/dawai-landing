@@ -1,5 +1,6 @@
 <template>
   <div id="index-page">
+    <Navbar />
     <main-jumbotron />
     <b-container>
       <about-us />
@@ -10,18 +11,21 @@
       <extra-info-section />
       <contact-section />
     </b-container>
+    <Footer />
   </div>
 </template>
 
 <script>
-import MainJumbotron from '@/components/index/MainJumbotron'
-import AboutUs from '@/components/index/AboutUs'
-import DonationSection from '@/components/index/DonationSection'
-import FeaturesSection from '@/components/index/FeaturesSection'
-import HowItWorksSection from '@/components/index/HowItWorksSection'
-// import PricingSection from '@/components/index/PricingSection'
-import ExtraInfoSection from '@/components/index/ExtraInfoSection'
-import ContactSection from '@/components/index/ContactSection'
+import Navbar from '@/components/en/layout/Navbar'
+import Footer from '@/components/en/layout/Footer'
+import MainJumbotron from '@/components/en/index/MainJumbotron'
+import AboutUs from '@/components/en/index/AboutUs'
+import DonationSection from '@/components/en/index/DonationSection'
+import FeaturesSection from '@/components/en/index/FeaturesSection'
+import HowItWorksSection from '@/components/en/index/HowItWorksSection'
+// import PricingSection from '@/components/en/index/PricingSection'
+import ExtraInfoSection from '@/components/en/index/ExtraInfoSection'
+import ContactSection from '@/components/en/index/ContactSection'
 export default {
   head() {
     return {
@@ -43,6 +47,8 @@ export default {
     }
   },
   components: {
+    Navbar,
+    Footer,
     MainJumbotron,
     AboutUs,
     DonationSection,
@@ -56,6 +62,9 @@ export default {
 </script>
 
 <style scoped>
+* {
+  font-family: 'Montserrat', sans-serif !important;
+}
 #index-page {
   padding: 0 !important;
 }

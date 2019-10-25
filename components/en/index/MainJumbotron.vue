@@ -3,31 +3,23 @@
     <div class="container mb-5">
       <div class="row align-items-center">
         <div class="col-lg-6 order-2 order-lg-1">
-          <h1 class="mb-4">Sudan's First Online Medicine Finder</h1>
-          <p class="lead">
+          <h1 class="mb-4 text-center">Sudan's First Online Medicine Finder</h1>
+          <p class="lead text-center">
             Dawai helps patients find medicine by connecting them directly to
             the pharmacies' inventory.
           </p>
-          <p class="lead">
+          <p class="lead text-center">
             Help us reach our goal by donating!
           </p>
-          <p>
+          <b-row class="align-items-center justify-content-center">
             <b-button
-              id="popover-target-1"
-              to="#donate"
-              class="text-uppercase btn-accent shadow mt-4"
+              to="/#donate"
+              class="text-uppercase text-center btn-accent shadow mt-4"
               size="lg"
               pill
               >Donate Now</b-button
             >
-            <!-- <b-popover
-              target="popover-target-1"
-              triggers="hover"
-              placement="bottom"
-            >
-              Still a Work in Progress!
-            </b-popover> -->
-          </p>
+          </b-row>
         </div>
         <div class="col-lg-6 order-1 order-lg-2 mb-5">
           <img

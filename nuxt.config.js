@@ -125,8 +125,12 @@ export default {
    ** Web Font Loader config
    */
   webfontloader: {
-    google: {
-      families: ['Montserrat:300,400,500&display=swap'] // Loads Montserrat font with swapped display
+    custom: {
+      families: ['Montserrat:n3,n4,n5', 'Tajawal:n3,n4,n5'],
+      urls: [
+        'https://fonts.googleapis.com/css?family=Montserrat:300,400,500&display=swap',
+        'https://fonts.googleapis.com/css?family=Tajawal:300,400,500&display=swap&subset=arabic'
+      ]
     }
   },
   /*

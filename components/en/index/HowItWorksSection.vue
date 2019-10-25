@@ -14,7 +14,7 @@
         ></b-img>
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
-        <p class="lead">
+        <p class="lead text-center">
           Pharmacies will manage their inventory and declare the availability of
           their medicine
         </p>
@@ -34,7 +34,7 @@
         <b-img alt="Search for Medicine" src="/search.svg" fluid></b-img>
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
-        <p class="lead">
+        <p class="lead text-center">
           Patients will search for the medicine and automatically be connected
           to the pharmacies’ inventory
         </p>
@@ -54,7 +54,7 @@
         <b-img alt="Results in a Map" src="/map.svg" fluid></b-img>
       </b-col>
       <b-col class="my-3" lg="4" sm="12">
-        <p class="lead">
+        <p class="lead text-center">
           Patients will be able to find the nearest pharmacy and get directions
           on a Map
         </p></b-col

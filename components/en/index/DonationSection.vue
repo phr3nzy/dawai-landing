@@ -3,7 +3,7 @@
     <b-row>
       <b-col>
         <h2 class="text-center mb-5">Donate</h2>
-        <p class="lead">
+        <p class="lead text-center">
           Our goal for hosting Dawai and paying for variable costs is
           <span class="font-weight-bold">$6000</span>. Donating as little as 1
           SDG will help us. You can donate to us through the following bank
