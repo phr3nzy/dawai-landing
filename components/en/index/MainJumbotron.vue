@@ -3,10 +3,12 @@
     <div class="container mb-5">
       <div class="row align-items-center">
         <div class="col-lg-6 order-2 order-lg-1">
-          <h1 class="mb-4 text-center">Sudan's First Online Medicine Finder</h1>
+          <h1 class="mb-4 text-center">
+            Finding Medicine has never been so Easy
+          </h1>
           <p class="lead text-center">
-            Dawai helps patients find medicine by connecting them directly to
-            the pharmacies' inventory.
+            Dawai helps patients find the location of medicine online easily,
+            and as fast as possible
           </p>
           <p class="lead text-center">
             Help us reach our goal by donating!
