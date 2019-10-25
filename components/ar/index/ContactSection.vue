@@ -2,7 +2,7 @@
   <section id="contact">
     <b-container>
       <b-row class="align-items-center justify-content-center">
-        <h2 class="mb-5">تواصل بنا</h2>
+        <h2 class="mb-3">تواصل بنا</h2>
       </b-row>
       <p class="text-center lead">
         هل لديك أي سؤال؟ يمكنك التواصل معنا عبر الأرقام التالية

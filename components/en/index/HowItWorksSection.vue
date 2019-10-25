@@ -2,7 +2,7 @@
   <section id="how-it-works">
     <b-row>
       <b-col>
-        <h2 class="text-center mb-5">How It Works</h2>
+        <h2 class="text-center mb-1">How It Works</h2>
       </b-col>
     </b-row>
     <b-row class="align-items-center justify-content-center my-5">

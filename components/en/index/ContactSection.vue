@@ -2,7 +2,7 @@
   <section id="contact">
     <b-container>
       <b-row class="align-items-center justify-content-center">
-        <h2 class="mb-5">Contact Us</h2>
+        <h2 class="mb-3">Contact Us</h2>
       </b-row>
       <p class="text-center lead">
         Have any questions for us? You can reach out to us by calling us in the

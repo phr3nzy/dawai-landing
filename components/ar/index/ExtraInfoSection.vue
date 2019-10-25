@@ -1,6 +1,6 @@
 <template>
   <section id="extra-info">
-    <h2 class="text-center mb-5">التعاون هو الحلَ!</h2>
+    <h2 class="text-center mb-3">التعاون هو الحلَ!</h2>
     <p class="lead text-center">
       برنامجنا مفتوح المصدر, يعني الكود متاح للجميع لرؤيته والاستخدام. نريد أن
       نوفر أفضل برنامج بأعلى معايير ممكنة, لذلك نشجع مبرمجين السودان للتعاون
@@ -27,7 +27,7 @@
         pill
         >GitHub Repository </b-button>
     </div> -->
-    <h2 class="text-center my-5 pt-5">هل تشارك رؤيتنا؟</h2>
+    <h2 class="text-center mt-5 mb-3 pt-5">هل تشارك رؤيتنا؟</h2>
     <p class="lead text-center">
       إذا كنت تؤمن حقا بأن دواي سيساهم في تطوير السودان و جعل حياة السودانيين
       أسهل, فضلا, تبرعك سيساهم في ذلك

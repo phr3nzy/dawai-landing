@@ -1,6 +1,6 @@
 <template>
   <section id="extra-info">
-    <h2 class="text-center mb-5">Collaboration is Key!</h2>
+    <h2 class="text-center mb-3b5998">Collaboration is Key!</h2>
     <p class="lead text-center">
       Our software is <span class="font-weight-bold">Open Source</span>, meaning
       the source code is available for anyone else to use and see. We want to
@@ -29,7 +29,7 @@
         pill
         >GitHub Repository </b-button>
     </div> -->
-    <h2 class="text-center my-5 pt-5">Do You Share our Vision?</h2>
+    <h2 class="text-center mt-5 mb-3 pt-5">Do You Share our Vision?</h2>
     <p class="lead text-center">
       If you truly think we can advance Sudan and make people’s lives easier by
       developing this software, please consider making a donation.

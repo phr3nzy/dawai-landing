@@ -2,7 +2,7 @@
   <section id="features">
     <b-row>
       <b-col>
-        <h2 class="text-center mb-5">Features</h2>
+        <h2 class="text-center mb-3">Features</h2>
       </b-col>
     </b-row>
     <b-row>

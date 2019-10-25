@@ -2,7 +2,7 @@
   <section id="donate">
     <b-row>
       <b-col>
-        <h2 class="text-center mb-5">التبرع</h2>
+        <h2 class="text-center mb-3">التبرع</h2>
         <p class="lead text-center">
           هدفنا المالي لدفع تكاليف دواي و إستضافته عبر الإنترنت تتطلب
           <span class="font-weight-bold">6000$</span>
@@ -22,7 +22,7 @@
             <h6 class="text-center">بنك الخرطوم</h6>
           </b-col>
         </b-row>
-        <h4 class="text-center mb-5">حالنا الآن:</h4>
+        <h4 class="text-center mb-3">حالنا الآن:</h4>
         <b-progress
           style="border-radius: 50rem; background-color: rgba(200,200,200,0.2);"
           :max="6000"

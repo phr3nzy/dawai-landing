@@ -2,7 +2,7 @@
   <section id="donate">
     <b-row>
       <b-col>
-        <h2 class="text-center mb-5">Donate</h2>
+        <h2 class="text-center mb-3">Donate</h2>
         <p class="lead text-center">
           Our goal for hosting Dawai and paying for variable costs is
           <span class="font-weight-bold">$6000</span>. Donating as little as 1
@@ -23,7 +23,7 @@
             <h6 class="text-center">Bank of Khartoum</h6>
           </b-col>
         </b-row>
-        <h4 class="text-center mb-5">Progress:</h4>
+        <h4 class="text-center mb-3">Progress:</h4>
         <b-progress
           style="border-radius: 50rem; background-color: rgba(200,200,200,0.2);"
           :max="6000"
