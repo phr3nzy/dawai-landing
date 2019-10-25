@@ -3,7 +3,7 @@
     <b-row>
       <b-col>
         <h2 class="text-center mb-5">التبرع</h2>
-        <p class="lead">
+        <p class="lead text-center">
           هدفنا المالي لدفع تكاليف دواي و إستضافته عبر الإنترنت تتطلب
           <span class="font-weight-bold">6000$</span>
           دولار. تبرعك و لو بجنيه سيساعدنا. يمكنك التبرع عبر الحساب أدناه:
