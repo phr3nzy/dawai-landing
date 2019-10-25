@@ -2,11 +2,11 @@
   <section id="donate">
     <b-row>
       <b-col>
-        <h2 class="text-center mb-3">التبرع</h2>
+        <h2 class="text-center mb-3">ساعدونا نحقق هدفنا</h2>
         <p class="lead text-center">
           هدفنا المالي لدفع تكاليف دواي و إستضافته عبر الإنترنت تتطلب
           <span class="font-weight-bold">6000$</span>
-          دولار. تبرعك و لو بجنيه سيساعدنا. يمكنك التبرع عبر الحساب أدناه:
+          دولار. تبرعكم و لو بجنيه سيساعدنا. يمكنك التبرع عبر الحساب أدناه:
         </p>
         <b-row class="my-5 align-items-center justify-content-center">
           <b-col lg="4">
@@ -41,7 +41,7 @@
           href="https://www.github.com/phr3nzy/dawai"
           target="blank"
           pill
-          >أضغط هنا لمعرفة ميزانيتنا</b-button
+          >أضغطو هنا لمعرفة ميزانيتنا</b-button
         >
       </b-col>
     </b-row>

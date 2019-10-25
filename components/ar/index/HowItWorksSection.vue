@@ -24,7 +24,7 @@
             class="btn-accent shadow"
             size="lg"
             pill
-            >انظر بنفسك!</b-button
+            >انظرو بأنفسكم!</b-button
           >
         </b-row>
       </b-col>
@@ -44,7 +44,7 @@
             class="btn-accent shadow"
             size="lg"
             pill
-            >ابحث الآن!</b-button
+            >ابحثو الآن!</b-button
           >
         </b-row>
       </b-col>

@@ -2,10 +2,10 @@
   <section id="contact">
     <b-container>
       <b-row class="align-items-center justify-content-center">
-        <h2 class="mb-3">تواصل بنا</h2>
+        <h2 class="mb-3">تواصلو معنا</h2>
       </b-row>
       <p class="text-center lead">
-        هل لديك أي سؤال؟ يمكنك التواصل معنا عبر الأرقام التالية
+        هل لديكم أي سؤال؟ يمكنكم التواصل معنا عبر الأرقام التالية
       </p>
       <p class="text-center lead">
         <a class="accent--text" href="tel:+249127604560">0127604560</a> -
@@ -31,7 +31,7 @@
             <b-form-group
               id="input-group-2"
               label-for="input-2"
-              description="لن نشارك بريدك الإلكتروني مع أي شخص آخر!"
+              description="لن نشارك بريدكم الإلكتروني مع أي شخص آخر!"
             >
               <b-form-input
                 id="input-2"
@@ -40,7 +40,7 @@
                 name="email"
                 type="email"
                 required
-                placeholder="عنوان بريد الكتروني..."
+                placeholder="عنوان البريد الكتروني..."
               ></b-form-input>
             </b-form-group>
 
@@ -50,7 +50,7 @@
                 v-model="form.text"
                 tabindex="3"
                 name="message"
-                placeholder="أخبرنا بما يدور في ذهنك..."
+                placeholder="أخبرونا بما يدور في ذهنكم..."
                 rows="3"
                 max-rows="6"
               ></b-form-textarea>
