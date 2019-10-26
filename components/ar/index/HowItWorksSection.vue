@@ -61,10 +61,12 @@
       >
     </b-row>
     <b-row class="align-items-center justify-content-center mt-5 pt-5">
-      <p class="lead">هل تملك صيدلية؟ هل أنت مهتم بالإنضمام لدواي؟</p>
+      <h2 class="text-center mb-3 pt-5">
+        هل تملك صيدلية؟ هل أنت مهتم بالإنضمام لدواي؟
+      </h2>
     </b-row>
     <b-row class="align-items-center justify-content-center">
-      <p class="lead">
+      <p class="lead text-center">
         لا تضيع الفرصة و إنضم إلينا و تمتع بهدية المشترك المبكر!
       </p>
     </b-row>

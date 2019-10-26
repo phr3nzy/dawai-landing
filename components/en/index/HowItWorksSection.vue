@@ -63,10 +63,12 @@
       >
     </b-row>
     <b-row class="align-items-center justify-content-center mt-5 pt-5">
-      <p class="lead">Are you a pharmacy owner? Interested in joining Dawai?</p>
+      <h2 class="text-center mb-4 pt-5">
+        Are you a pharmacy owner? Interested in joining Dawai?
+      </h2>
     </b-row>
     <b-row class="align-items-center justify-content-center">
-      <p class="lead">
+      <p class="lead text-center">
         Join us now by filling the form below and earn our early subscriber
         gift!
       </p>
