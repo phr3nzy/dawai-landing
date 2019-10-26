@@ -48,7 +48,7 @@ export default {
             'Dawai helps patients find where medicine is online easily and as fast as possible'
         },
         { property: 'og:type', content: 'website' },
-        { property: 'og:url', content: 'https://dawai.x249.net/ar' },
+        { property: 'og:url', content: 'https://dawai.x249.net/' },
         {
           property: 'og:image',
           content: 'https://dawai.x249.net/sudan-map-green-whitebg-min.png'
