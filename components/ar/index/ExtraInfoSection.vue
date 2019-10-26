@@ -33,7 +33,7 @@
       أسهل, فضلا, تبرعكم سيساهم في ذلك
     </p>
     <div class="text-center mb-5">
-      <b-button class="mt-3 btn-accent shadow" to="/#donate" size="lg" pill
+      <b-button class="mt-3 btn-accent shadow" to="#donate" size="lg" pill
         >تبرعو الآن</b-button
       >
     </div>
