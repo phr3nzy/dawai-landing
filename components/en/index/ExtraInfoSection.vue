@@ -53,7 +53,7 @@
       /></a>
       <a
         class="mx-2"
-        href="https://www.twitter.com/x249sudan"
+        href="https://www.twitter.com/x249_Sudan"
         target="_blank"
         style="color: #1da1f2;"
         ><font-awesome-icon style="font-size: 48px;" :icon="['fab', 'twitter']"
