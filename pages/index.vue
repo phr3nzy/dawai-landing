@@ -35,7 +35,7 @@ export default {
           hid: 'description',
           name: 'description',
           content:
-            "Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautiful Charts and meaningful Analytics!"
+            'Dawai helps patients find where medicine is online easily and as fast as possible'
         },
         // Open Graph
         {
@@ -45,7 +45,7 @@ export default {
         {
           property: 'og:description',
           content:
-            "Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautiful Charts and meaningful Analytics!"
+            'Dawai helps patients find where medicine is online easily and as fast as possible'
         },
         { property: 'og:type', content: 'website' },
         { property: 'og:url', content: 'https://dawai.x249.net/ar' },
@@ -64,7 +64,7 @@ export default {
         {
           name: 'twitter:description',
           content:
-            "Medicine Locator and Pharmacy Management Solution for Sudan. Search and find any medicine in Sudan using our databse of over 4000 records connected with Pharmacies all over the country. Manage your entire Pharmacy using Dawai's Management software that gives you beautiful Charts and meaningful Analytics!"
+            'Dawai helps patients find where medicine is online easily and as fast as possible'
         },
         {
           name: 'twitter:image',
