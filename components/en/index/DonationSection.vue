@@ -40,7 +40,7 @@
           class="btn-accent shadow mt-5"
           size="lg"
           href="https://github.com/phr3nzy/dawai#dawais-hosting-costs"
-          target="blank"
+          target="_blank"
           pill
           >Learn More</b-button
         >

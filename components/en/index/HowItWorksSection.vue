@@ -21,7 +21,7 @@
         <b-row class="align-items-center justify-content-center">
           <b-button
             href="https://dawai-ph.herokuapp.com/dashboard"
-            target="blank"
+            target="_blank"
             class="btn-accent shadow"
             size="lg"
             pill
@@ -42,7 +42,7 @@
         <b-row class="align-items-center justify-content-center">
           <b-button
             href="https://dawai-ph.herokuapp.com/"
-            target="blank"
+            target="_blank"
             class="btn-accent shadow"
             size="lg"
             pill

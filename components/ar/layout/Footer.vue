@@ -5,7 +5,7 @@
         <p>
           حقوق الطبع والنشر © <span class="copyright-year">2019</span> جميع
           الحقوق محفوظة |
-          <a class="accent--text" href="https://x249.net" target="blank">
+          <a class="accent--text" href="https://x249.net" target="_blank">
             x249</a
           >
         </p>

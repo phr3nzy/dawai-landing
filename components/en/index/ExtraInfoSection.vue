@@ -13,7 +13,7 @@
       <a
         class="lead"
         href="https://www.github.com/phr3nzy/dawai"
-        target="blank"
+        target="_blank"
       >
         <font-awesome-icon style="color: #211F1F;" :icon="['fab', 'github']" />
         GitHub Repository</a
@@ -24,7 +24,7 @@
       <b-button
         class="mt-3 mb-5 github-black shadow"
         href="https://www.github.com/phr3nzy/dawai"
-        target="blank"
+        target="_blank"
         size="lg"
         pill
         >GitHub Repository </b-button>
@@ -47,21 +47,21 @@
       <a
         class="mx-2"
         href="https://www.facebook.com/x249sudan"
-        target="blank"
+        target="_blank"
         style="color: #3b5998;"
         ><font-awesome-icon style="font-size: 48px;" :icon="['fab', 'facebook']"
       /></a>
       <a
         class="mx-2"
         href="https://www.twitter.com/x249sudan"
-        target="blank"
+        target="_blank"
         style="color: #1da1f2;"
         ><font-awesome-icon style="font-size: 48px;" :icon="['fab', 'twitter']"
       /></a>
       <a
         class="mx-2"
         href="https://www.linkedin.com/company/x249/"
-        target="blank"
+        target="_blank"
         style="color: #0077B5;"
         ><font-awesome-icon style="font-size: 48px;" :icon="['fab', 'linkedin']"
       /></a>
