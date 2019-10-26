@@ -16,10 +16,10 @@
           <b-row class="align-items-center justify-content-center">
             <b-button
               to="/#donate"
-              class="text-uppercase text-center btn-accent shadow mt-4"
+              class="text-center btn-accent shadow mt-4"
               size="lg"
               pill
-              >Donate Now</b-button
+              >Help us Today!</b-button
             >
           </b-row>
         </div>

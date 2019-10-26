@@ -21,7 +21,7 @@
               class="text-uppercase btn-accent shadow mt-4 text-center"
               size="lg"
               pill
-              >تبرعو الآن</b-button
+              >ساعدونا الآن!</b-button
             >
           </b-row>
         </div>

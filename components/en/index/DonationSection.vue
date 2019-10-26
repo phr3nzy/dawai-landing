@@ -2,7 +2,7 @@
   <section id="donate">
     <b-row>
       <b-col>
-        <h2 class="text-center mb-3">Donate</h2>
+        <h2 class="text-center mb-3">Help Us Reach Our Goal</h2>
         <p class="lead text-center">
           Our goal for hosting Dawai and paying for variable costs is
           <span class="font-weight-bold">$6000</span>. Donating as little as 1
