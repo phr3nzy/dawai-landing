@@ -61,7 +61,7 @@
       >
     </b-row>
     <b-row class="align-items-center justify-content-center mt-5 pt-5">
-      <p class="lead">هل أنت مهتم بالإنضمام لدواي؟ هل تملك صيدلية؟</p>
+      <p class="lead">هل تملك صيدلية؟ هل أنت مهتم بالإنضمام لدواي؟</p>
     </b-row>
     <b-row class="align-items-center justify-content-center">
       <p class="lead">
