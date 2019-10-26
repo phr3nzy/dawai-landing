@@ -30,8 +30,8 @@
           height="2.6rem"
           animated
         >
-          <b-progress-bar class="red" :value="100">
-            <strong class="secondary--text ml-3">0 / 6000 USD</strong>
+          <b-progress-bar class="accent" :value="500">
+            <strong class="ml-3">4 / 6000 USD</strong>
           </b-progress-bar>
         </b-progress>
       </b-col>

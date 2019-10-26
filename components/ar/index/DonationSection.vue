@@ -29,8 +29,8 @@
           height="3rem"
           animated
         >
-          <b-progress-bar class="red" :value="500">
-            <strong class="mr-3">0 / 6000 دولار</strong>
+          <b-progress-bar class="accent" :value="500">
+            <strong class="mr-3">4 / 6000 دولار</strong>
           </b-progress-bar>
         </b-progress>
       </b-col>
