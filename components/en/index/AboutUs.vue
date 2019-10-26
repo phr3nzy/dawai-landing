@@ -12,6 +12,7 @@
           This experience brought us together, and ever since, we worked hard to
           make sure this problem never happens to anyone ever again.
         </p>
+        <profile-cards />
         <br />
         <p class="lead text-center">
           We aspire to help grow our country technologically, and provide
@@ -28,6 +29,15 @@
     </b-row>
   </section>
 </template>
+
+<script>
+import ProfileCards from '@/components/en/index/ProfileCards'
+export default {
+  components: {
+    ProfileCards
+  }
+}
+</script>
 
 <style scoped>
 #about {

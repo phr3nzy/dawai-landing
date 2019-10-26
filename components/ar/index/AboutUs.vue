@@ -10,6 +10,7 @@
           تجده. هذه المعاناة جمعتنا لإيجاد حل فوري يأكد عدم تكرار هذه التجربة
           لأي شخص آخر مجددا.
         </p>
+        <profile-cards />
         <br />
         <p class="lead text-center">
           رؤيتنا أن نطور بلدنا عبر توفير حلول تكنولوجية لجعل حياتنا أسهل و أريح.
@@ -24,6 +25,15 @@
     </b-row>
   </section>
 </template>
+
+<script>
+import ProfileCards from '@/components/ar/index/ProfileCards'
+export default {
+  components: {
+    ProfileCards
+  }
+}
+</script>
 
 <style scoped>
 #about {

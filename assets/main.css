@@ -198,3 +198,7 @@ ul.timeline {
   list-style-type: none;
   position: relative;
 }
+
+.image-depth {
+  box-shadow: 5px 5px 15px hsl(0, 0%, 85%),-5px -5px 15px hsl(0, 0%, 85%);
+}
