@@ -39,7 +39,7 @@
         <b-button
           class="btn-accent shadow mt-5"
           size="lg"
-          href="https://www.github.com/phr3nzy/dawai"
+          href="https://github.com/phr3nzy/dawai#dawais-hosting-costs"
           target="blank"
           pill
           >Learn More</b-button
