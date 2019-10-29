@@ -4,7 +4,7 @@
       <b-img
         class="mr-2"
         height="40px"
-        src="icon-40x40.png"
+        src="icon-128x128.png"
         alt="Dawai Logo"
         aria-label="Dawai Logo Picture"
       ></b-img
