@@ -4,7 +4,20 @@
       <b-col>
         <h2 class="text-center mb-3">Help Us Reach Our Goal</h2>
         <p class="lead text-center">
-          Our goal for hosting Dawai and paying for variable costs is
+          Dawai is especially dedicated to the patients who live on the
+          outskirts and suburbs. They come from a very long distance seeking
+          medicine, only to spend months’ worth of salary in a matter of days,
+          in expenses for living in the main city, searching pharmacy to
+          pharmacy struggling to find the medicine they need.
+        </p>
+        <b-img
+          class="img-fluid"
+          src="/farmer.jpg"
+          alt="Farmer with goats"
+        ></b-img>
+        <p class="lead text-center pt-5">
+          Help us make this project possible and reach our goal for hosting
+          Dawai and paying for variable costs of
           <span class="font-weight-bold">$6000</span>. Donating as little as 1
           SDG will help us. You can donate to us through the following bank
           account:
@@ -31,7 +44,7 @@
           animated
         >
           <b-progress-bar class="accent" :value="500">
-            <strong class="ml-3">4 / 6000 USD</strong>
+            <strong class="ml-3">10 / 6000 USD</strong>
           </b-progress-bar>
         </b-progress>
       </b-col>
