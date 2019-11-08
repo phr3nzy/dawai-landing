@@ -31,11 +31,11 @@
             src="/increased-sales.svg"
             alt="Increased Sales and Performance"
           ></b-img>
-          <h3 class="text-center">سرعة المبيعات</h3>
+          <h3 class="text-center">زيادة في المبيعات</h3>
           <b-card-text class="text-center">
             <p class="lead">
-              حلنا الإلكتروني سيساعد الصيدليات بالتركيز على جلب الدواء, و ترك
-              معاناة بيع الدواء سريعا و جلب الزبائن. و أكثر!
+              حلنا سيوفر للصيدليات الظهور الإكتروني و يزيد نسبة المبيعات بنسبة
+              40%
             </p>
           </b-card-text>
         </b-card></b-col

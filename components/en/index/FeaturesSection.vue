@@ -32,12 +32,11 @@
             src="/increased-sales.svg"
             alt="Increased Sales and Performance"
           ></b-img>
-          <h3 class="text-center">Faster Sales</h3>
+          <h3 class="text-center">Increased Sales</h3>
           <b-card-text class="text-center">
             <p class="lead">
-              Our Cloud-Based solution will help pharmacies focus on bringing
-              the medicine and leave the pain of selling medicine fast and prior
-              to expiry and bringing customers to us. And more!
+              Our Cloud-Based solution will help pharmacies achieve a digital
+              presence and increase their sales by up to 40%
             </p>
           </b-card-text>
         </b-card></b-col
